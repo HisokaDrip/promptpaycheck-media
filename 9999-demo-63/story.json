@@ -1,0 +1,648 @@
+{
+ "fps": 30,
+ "duration": 36.311,
+ "handle": "thepromptpaycheck",
+ "termTag": "content_multiplier",
+ "hook": {
+  "start": 0.12,
+  "dur": 2.873,
+  "words": [
+   {
+    "d": "Turn",
+    "t0": 0.17,
+    "t1": 0.524
+   },
+   {
+    "d": "1",
+    "t0": 0.524,
+    "t1": 0.612
+   },
+   {
+    "d": "idea",
+    "t0": 0.612,
+    "t1": 1.02
+   },
+   {
+    "d": "into",
+    "t0": 1.02,
+    "t1": 1.25
+   },
+   {
+    "d": "10",
+    "t0": 1.25,
+    "t1": 1.53
+   },
+   {
+    "d": "posts",
+    "t0": 1.53,
+    "t1": 1.86
+   },
+   {
+    "d": "in",
+    "t0": 1.86,
+    "t1": 2.08
+   },
+   {
+    "d": "60",
+    "t0": 2.08,
+    "t1": 2.35
+   },
+   {
+    "d": "seconds",
+    "t0": 2.35,
+    "t1": 2.913
+   }
+  ],
+  "text": "Turn 1 idea into 10 posts in 60 seconds",
+  "highlight": "10 posts"
+ },
+ "scenes": [
+  {
+   "type": "tags",
+   "title": "still stuck",
+   "items": [
+    "blank page",
+    "what to post",
+    "no ideas",
+    "daily posting",
+    "burnout",
+    "paid tools",
+    "$30 a month",
+    "scheduling",
+    "hashtags",
+    "hooks",
+    "captions",
+    "running late"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "0 POSTS",
+   "step": 0,
+   "vo": {
+    "start": 3.313,
+    "dur": 4.11,
+    "words": [
+     {
+      "d": "Posting",
+      "t0": 3.363,
+      "t1": 3.812
+     },
+     {
+      "d": "every",
+      "t0": 3.812,
+      "t1": 4.133
+     },
+     {
+      "d": "day",
+      "t0": 4.133,
+      "t1": 4.383
+     },
+     {
+      "d": "gets",
+      "t0": 4.383,
+      "t1": 4.593
+     },
+     {
+      "d": "hard",
+      "t0": 4.593,
+      "t1": 4.763
+     },
+     {
+      "d": "when",
+      "t0": 4.763,
+      "t1": 5.096
+     },
+     {
+      "d": "you",
+      "t0": 5.096,
+      "t1": 5.289
+     },
+     {
+      "d": "start",
+      "t0": 5.289,
+      "t1": 5.613
+     },
+     {
+      "d": "from",
+      "t0": 5.613,
+      "t1": 5.866
+     },
+     {
+      "d": "a",
+      "t0": 5.866,
+      "t1": 5.893
+     },
+     {
+      "d": "blank",
+      "t0": 5.893,
+      "t1": 6.173
+     },
+     {
+      "d": "page",
+      "t0": 6.173,
+      "t1": 6.563
+     },
+     {
+      "d": "each",
+      "t0": 6.563,
+      "t1": 6.713
+     },
+     {
+      "d": "time.",
+      "t0": 6.713,
+      "t1": 7.343
+     }
+    ],
+    "text": "Posting every day gets hard when you start from a blank page each time."
+   }
+  },
+  {
+   "type": "chat",
+   "title": "",
+   "items": [],
+   "values": [],
+   "prompt": "Turn this idea into 10 short post ideas. Give each one a hook and one call to action: [your idea] for [your audience].",
+   "fills": [],
+   "big": "",
+   "step": 1,
+   "vo": {
+    "start": 7.873,
+    "dur": 4.437,
+    "words": [
+     {
+      "d": "Step",
+      "t0": 7.923,
+      "t1": 8.143
+     },
+     {
+      "d": "one.",
+      "t0": 8.143,
+      "t1": 8.803
+     },
+     {
+      "d": "Paste",
+      "t0": 8.803,
+      "t1": 9.103
+     },
+     {
+      "d": "this",
+      "t0": 9.103,
+      "t1": 9.343
+     },
+     {
+      "d": "prompt",
+      "t0": 9.343,
+      "t1": 9.773
+     },
+     {
+      "d": "into",
+      "t0": 9.773,
+      "t1": 10.053
+     },
+     {
+      "d": "ChatGPT,",
+      "t0": 10.053,
+      "t1": 10.923
+     },
+     {
+      "d": "Claude",
+      "t0": 10.923,
+      "t1": 11.304
+     },
+     {
+      "d": "or",
+      "t0": 11.304,
+      "t1": 11.446
+     },
+     {
+      "d": "Gemini.",
+      "t0": 11.446,
+      "t1": 12.229
+     }
+    ],
+    "text": "Step one. Paste this prompt into ChatGPT, Claude or Gemini."
+   }
+  },
+  {
+   "type": "chat",
+   "title": "",
+   "items": [],
+   "values": [],
+   "prompt": "",
+   "fills": [
+    "budgeting tips",
+    "students"
+   ],
+   "big": "",
+   "step": 2,
+   "vo": {
+    "start": 12.759,
+    "dur": 2.941,
+    "words": [
+     {
+      "d": "Step",
+      "t0": 12.809,
+      "t1": 13.089
+     },
+     {
+      "d": "two.",
+      "t0": 13.089,
+      "t1": 13.579
+     },
+     {
+      "d": "Swap",
+      "t0": 13.579,
+      "t1": 13.719
+     },
+     {
+      "d": "in",
+      "t0": 13.719,
+      "t1": 13.919
+     },
+     {
+      "d": "your",
+      "t0": 13.919,
+      "t1": 14.125
+     },
+     {
+      "d": "one",
+      "t0": 14.125,
+      "t1": 14.359
+     },
+     {
+      "d": "idea",
+      "t0": 14.359,
+      "t1": 14.599
+     },
+     {
+      "d": "and",
+      "t0": 14.599,
+      "t1": 14.723
+     },
+     {
+      "d": "who",
+      "t0": 14.723,
+      "t1": 14.902
+     },
+     {
+      "d": "it's",
+      "t0": 14.902,
+      "t1": 15.142
+     },
+     {
+      "d": "for.",
+      "t0": 15.142,
+      "t1": 15.62
+     }
+    ],
+    "text": "Step two. Swap in your one idea and who it's for."
+   }
+  },
+  {
+   "type": "ranked",
+   "title": "example ideas",
+   "items": [
+    "3 free budgeting apps",
+    "The 50/30/20 rule",
+    "Cut 1 bill this week",
+    "Check your bank fees",
+    "Build a $500 buffer"
+   ],
+   "values": [
+    95,
+    85,
+    72,
+    60,
+    48
+   ],
+   "prompt": "",
+   "fills": [],
+   "big": "TOP",
+   "step": 0,
+   "vo": {
+    "start": 16.15,
+    "dur": 5.632,
+    "words": [
+     {
+      "d": "Here's",
+      "t0": 16.2,
+      "t1": 16.605
+     },
+     {
+      "d": "an",
+      "t0": 16.605,
+      "t1": 16.7
+     },
+     {
+      "d": "example",
+      "t0": 16.7,
+      "t1": 17.213
+     },
+     {
+      "d": "result.",
+      "t0": 17.213,
+      "t1": 17.99
+     },
+     {
+      "d": "The",
+      "t0": 17.99,
+      "t1": 18.13
+     },
+     {
+      "d": "AI",
+      "t0": 18.13,
+      "t1": 18.293
+     },
+     {
+      "d": "gives",
+      "t0": 18.293,
+      "t1": 18.63
+     },
+     {
+      "d": "you",
+      "t0": 18.63,
+      "t1": 18.87
+     },
+     {
+      "d": "ten",
+      "t0": 18.87,
+      "t1": 19.02
+     },
+     {
+      "d": "ideas,",
+      "t0": 19.02,
+      "t1": 19.55
+     },
+     {
+      "d": "and",
+      "t0": 19.55,
+      "t1": 19.812
+     },
+     {
+      "d": "you",
+      "t0": 19.812,
+      "t1": 19.97
+     },
+     {
+      "d": "pick",
+      "t0": 19.97,
+      "t1": 20.21
+     },
+     {
+      "d": "the",
+      "t0": 20.21,
+      "t1": 20.46
+     },
+     {
+      "d": "strongest",
+      "t0": 20.46,
+      "t1": 21.094
+     },
+     {
+      "d": "ones.",
+      "t0": 21.094,
+      "t1": 21.702
+     }
+    ],
+    "text": "Here's an example result. The AI gives you ten ideas, and you pick the strongest ones."
+   }
+  },
+  {
+   "type": "checklist",
+   "title": "before you post",
+   "items": [
+    "Check every fact",
+    "Add your own example",
+    "Cut anything generic",
+    "Schedule 1 per day"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 3,
+   "vo": {
+    "start": 22.482,
+    "dur": 4.117,
+    "words": [
+     {
+      "d": "Step",
+      "t0": 22.532,
+      "t1": 22.757
+     },
+     {
+      "d": "three.",
+      "t0": 22.757,
+      "t1": 23.318
+     },
+     {
+      "d": "Check",
+      "t0": 23.318,
+      "t1": 23.652
+     },
+     {
+      "d": "the",
+      "t0": 23.652,
+      "t1": 23.722
+     },
+     {
+      "d": "facts,",
+      "t0": 23.722,
+      "t1": 24.182
+     },
+     {
+      "d": "add",
+      "t0": 24.182,
+      "t1": 24.342
+     },
+     {
+      "d": "your",
+      "t0": 24.342,
+      "t1": 24.638
+     },
+     {
+      "d": "own",
+      "t0": 24.638,
+      "t1": 24.806
+     },
+     {
+      "d": "example,",
+      "t0": 24.806,
+      "t1": 25.396
+     },
+     {
+      "d": "then",
+      "t0": 25.396,
+      "t1": 25.632
+     },
+     {
+      "d": "post",
+      "t0": 25.632,
+      "t1": 25.902
+     },
+     {
+      "d": "one",
+      "t0": 25.902,
+      "t1": 25.942
+     },
+     {
+      "d": "a",
+      "t0": 25.942,
+      "t1": 25.992
+     },
+     {
+      "d": "day.",
+      "t0": 25.992,
+      "t1": 26.519
+     }
+    ],
+    "text": "Step three. Check the facts, add your own example, then post one a day."
+   }
+  },
+  {
+   "type": "card",
+   "title": "Your move",
+   "items": [
+    "Pick 1 idea",
+    "Paste the prompt",
+    "Post 1 a day"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "TODAY",
+   "step": 0,
+   "vo": {
+    "start": 27.199,
+    "dur": 4.053,
+    "words": [
+     {
+      "d": "A",
+      "t0": 27.249,
+      "t1": 27.317
+     },
+     {
+      "d": "free",
+      "t0": 27.317,
+      "t1": 27.587
+     },
+     {
+      "d": "plan",
+      "t0": 27.587,
+      "t1": 27.909
+     },
+     {
+      "d": "is",
+      "t0": 27.909,
+      "t1": 27.993
+     },
+     {
+      "d": "enough",
+      "t0": 27.993,
+      "t1": 28.399
+     },
+     {
+      "d": "to",
+      "t0": 28.399,
+      "t1": 28.589
+     },
+     {
+      "d": "start.",
+      "t0": 28.589,
+      "t1": 29.239
+     },
+     {
+      "d": "Pick",
+      "t0": 29.239,
+      "t1": 29.449
+     },
+     {
+      "d": "one",
+      "t0": 29.449,
+      "t1": 29.739
+     },
+     {
+      "d": "idea",
+      "t0": 29.739,
+      "t1": 29.955
+     },
+     {
+      "d": "and",
+      "t0": 29.955,
+      "t1": 30.089
+     },
+     {
+      "d": "try",
+      "t0": 30.089,
+      "t1": 30.36
+     },
+     {
+      "d": "it",
+      "t0": 30.36,
+      "t1": 30.449
+     },
+     {
+      "d": "today.",
+      "t0": 30.449,
+      "t1": 31.172
+     }
+    ],
+    "text": "A free plan is enough to start. Pick one idea and try it today."
+   }
+  }
+ ],
+ "cta": {
+  "start": 31.852,
+  "dur": 2.709,
+  "words": [
+   {
+    "d": "Follow",
+    "t0": 31.902,
+    "t1": 32.292
+   },
+   {
+    "d": "for",
+    "t0": 32.292,
+    "t1": 32.482
+   },
+   {
+    "d": "a",
+    "t0": 32.482,
+    "t1": 32.602
+   },
+   {
+    "d": "new",
+    "t0": 32.602,
+    "t1": 32.662
+   },
+   {
+    "d": "AI",
+    "t0": 32.662,
+    "t1": 32.869
+   },
+   {
+    "d": "income",
+    "t0": 32.869,
+    "t1": 33.262
+   },
+   {
+    "d": "method",
+    "t0": 33.262,
+    "t1": 33.643
+   },
+   {
+    "d": "every",
+    "t0": 33.643,
+    "t1": 33.892
+   },
+   {
+    "d": "day.",
+    "t0": 33.892,
+    "t1": 34.481
+   }
+  ],
+  "text": "Follow for a new AI income method every day.",
+  "highlight": "AI income method"
+ }
+}

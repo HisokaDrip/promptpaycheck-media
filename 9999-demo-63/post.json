@@ -1,0 +1,129 @@
+{
+  "topic": "Turn one idea into 10 posts with one AI prompt",
+  "term_tag": "content_multiplier",
+  "hook": {
+    "text": "Turn 1 idea into 10 posts in 60 seconds",
+    "highlight": "10 posts"
+  },
+  "scenes": [
+    {
+      "type": "tags",
+      "step": 0,
+      "vo": "Posting every day gets hard when you start from a blank page each time.",
+      "title": "still stuck",
+      "items": [
+        "blank page",
+        "what to post",
+        "no ideas",
+        "daily posting",
+        "burnout",
+        "paid tools",
+        "$30 a month",
+        "scheduling",
+        "hashtags",
+        "hooks",
+        "captions",
+        "running late"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "0 POSTS"
+    },
+    {
+      "type": "chat",
+      "step": 1,
+      "vo": "Step one. Paste this prompt into ChatGPT, Claude or Gemini.",
+      "title": "",
+      "items": [],
+      "values": [],
+      "prompt": "Turn this idea into 10 short post ideas. Give each one a hook and one call to action: [your idea] for [your audience].",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "chat",
+      "step": 2,
+      "vo": "Step two. Swap in your one idea and who it's for.",
+      "title": "",
+      "items": [],
+      "values": [],
+      "prompt": "",
+      "fills": [
+        "budgeting tips",
+        "students"
+      ],
+      "big": ""
+    },
+    {
+      "type": "ranked",
+      "step": 0,
+      "vo": "Here's an example result. The AI gives you ten ideas, and you pick the strongest ones.",
+      "title": "example ideas",
+      "items": [
+        "3 free budgeting apps",
+        "The 50/30/20 rule",
+        "Cut 1 bill this week",
+        "Check your bank fees",
+        "Build a $500 buffer"
+      ],
+      "values": [
+        95,
+        85,
+        72,
+        60,
+        48
+      ],
+      "prompt": "",
+      "fills": [],
+      "big": "TOP"
+    },
+    {
+      "type": "checklist",
+      "step": 3,
+      "vo": "Step three. Check the facts, add your own example, then post one a day.",
+      "title": "before you post",
+      "items": [
+        "Check every fact",
+        "Add your own example",
+        "Cut anything generic",
+        "Schedule 1 per day"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "card",
+      "step": 0,
+      "vo": "A free plan is enough to start. Pick one idea and try it today.",
+      "title": "Your move",
+      "items": [
+        "Pick 1 idea",
+        "Paste the prompt",
+        "Post 1 a day"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "TODAY"
+    }
+  ],
+  "caption": "One idea can fill your whole week.\n\nUse ChatGPT prompts to plan a week of content for your AI side hustle without paying for extra tools.\n\nBonus tip: ask for the 10 ideas in 3 formats: tips, myths and short stories.\n\nSend this to the friend who never knows what to post.\n\nWhat idea are you turning into 10 posts?\n\nFollow @thepromptpaycheck for a new AI income method every day.",
+  "hashtags": [
+    "#aisidehustle",
+    "#chatgptprompts",
+    "#contentcreation",
+    "#repurposecontent",
+    "#makemoneywithai"
+  ],
+  "kind": "reel",
+  "style": "motion",
+  "pillar": "Money mistakes and money protection (banking, debt, savings, scams)",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null,
+  "voice": "kokoro:am_michael",
+  "motion_error": "ValueError: operands could not be broadcast together with shapes (0,) (15360,) "
+}
