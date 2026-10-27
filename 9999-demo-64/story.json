@@ -1,0 +1,591 @@
+{
+ "fps": 30,
+ "duration": 36.116,
+ "handle": "thepromptpaycheck",
+ "termTag": "content_multiplier",
+ "hook": {
+  "start": 0.12,
+  "dur": 2.667,
+  "words": [
+   {
+    "d": "Turn",
+    "t0": 0.17,
+    "t1": 0.532
+   },
+   {
+    "d": "1",
+    "t0": 0.532,
+    "t1": 0.623
+   },
+   {
+    "d": "idea",
+    "t0": 0.623,
+    "t1": 0.985
+   },
+   {
+    "d": "into",
+    "t0": 0.985,
+    "t1": 1.29
+   },
+   {
+    "d": "10",
+    "t0": 1.29,
+    "t1": 1.5
+   },
+   {
+    "d": "posts",
+    "t0": 1.5,
+    "t1": 2.03
+   },
+   {
+    "d": "in",
+    "t0": 2.03,
+    "t1": 2.11
+   },
+   {
+    "d": "3",
+    "t0": 2.11,
+    "t1": 2.254
+   },
+   {
+    "d": "steps",
+    "t0": 2.254,
+    "t1": 2.707
+   }
+  ],
+  "text": "Turn 1 idea into 10 posts in 3 steps",
+  "highlight": "10 posts"
+ },
+ "scenes": [
+  {
+   "type": "chat",
+   "title": "",
+   "items": [],
+   "values": [],
+   "prompt": "Turn my idea [your idea] into 10 Instagram post ideas for [your audience]. Give each one a hook, 3 key points and a call to action. Keep it simple.",
+   "fills": [],
+   "big": "",
+   "step": 1,
+   "vo": {
+    "start": 3.107,
+    "dur": 5.717,
+    "words": [
+     {
+      "d": "Step",
+      "t0": 3.157,
+      "t1": 3.377
+     },
+     {
+      "d": "one.",
+      "t0": 3.377,
+      "t1": 4.097
+     },
+     {
+      "d": "Open",
+      "t0": 4.097,
+      "t1": 4.387
+     },
+     {
+      "d": "ChatGPT",
+      "t0": 4.387,
+      "t1": 4.877
+     },
+     {
+      "d": "or",
+      "t0": 4.877,
+      "t1": 5.047
+     },
+     {
+      "d": "Claude",
+      "t0": 5.047,
+      "t1": 5.487
+     },
+     {
+      "d": "and",
+      "t0": 5.487,
+      "t1": 5.627
+     },
+     {
+      "d": "paste",
+      "t0": 5.627,
+      "t1": 5.947
+     },
+     {
+      "d": "this",
+      "t0": 5.947,
+      "t1": 6.377
+     },
+     {
+      "d": "prompt.",
+      "t0": 6.377,
+      "t1": 7.067
+     },
+     {
+      "d": "Both",
+      "t0": 7.067,
+      "t1": 7.397
+     },
+     {
+      "d": "have",
+      "t0": 7.397,
+      "t1": 7.737
+     },
+     {
+      "d": "free",
+      "t0": 7.737,
+      "t1": 8.027
+     },
+     {
+      "d": "plans.",
+      "t0": 8.027,
+      "t1": 8.744
+     }
+    ],
+    "text": "Step one. Open ChatGPT or Claude and paste this prompt. Both have free plans."
+   }
+  },
+  {
+   "type": "chat",
+   "title": "",
+   "items": [],
+   "values": [],
+   "prompt": "",
+   "fills": [
+    "meal prep",
+    "busy students"
+   ],
+   "big": "",
+   "step": 2,
+   "vo": {
+    "start": 9.274,
+    "dur": 3.545,
+    "words": [
+     {
+      "d": "Step",
+      "t0": 9.324,
+      "t1": 9.604
+     },
+     {
+      "d": "two.",
+      "t0": 9.604,
+      "t1": 9.984
+     },
+     {
+      "d": "Swap",
+      "t0": 9.984,
+      "t1": 10.304
+     },
+     {
+      "d": "in",
+      "t0": 10.304,
+      "t1": 10.334
+     },
+     {
+      "d": "your",
+      "t0": 10.334,
+      "t1": 10.597
+     },
+     {
+      "d": "idea",
+      "t0": 10.597,
+      "t1": 10.774
+     },
+     {
+      "d": "and",
+      "t0": 10.774,
+      "t1": 11.003
+     },
+     {
+      "d": "your",
+      "t0": 11.003,
+      "t1": 11.294
+     },
+     {
+      "d": "audience.",
+      "t0": 11.294,
+      "t1": 11.987
+     },
+     {
+      "d": "Hit",
+      "t0": 11.987,
+      "t1": 12.114
+     },
+     {
+      "d": "enter.",
+      "t0": 12.114,
+      "t1": 12.739
+     }
+    ],
+    "text": "Step two. Swap in your idea and your audience. Hit enter."
+   }
+  },
+  {
+   "type": "tiles",
+   "title": "1 idea, 10 angles",
+   "items": [
+    "#1: Myth to bust",
+    "#2: 3 quick tips",
+    "#3: Common mistake",
+    "#4: Simple checklist",
+    "#5: Story post"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 0,
+   "vo": {
+    "start": 13.269,
+    "dur": 5.611,
+    "words": [
+     {
+      "d": "You",
+      "t0": 13.319,
+      "t1": 13.559
+     },
+     {
+      "d": "get",
+      "t0": 13.559,
+      "t1": 13.649
+     },
+     {
+      "d": "10",
+      "t0": 13.649,
+      "t1": 13.869
+     },
+     {
+      "d": "angles",
+      "t0": 13.869,
+      "t1": 14.109
+     },
+     {
+      "d": "like",
+      "t0": 14.109,
+      "t1": 14.489
+     },
+     {
+      "d": "myths,",
+      "t0": 14.489,
+      "t1": 15.019
+     },
+     {
+      "d": "tips,",
+      "t0": 15.019,
+      "t1": 15.425
+     },
+     {
+      "d": "mistakes",
+      "t0": 15.425,
+      "t1": 15.849
+     },
+     {
+      "d": "and",
+      "t0": 15.849,
+      "t1": 16.039
+     },
+     {
+      "d": "checklists,",
+      "t0": 16.039,
+      "t1": 16.869
+     },
+     {
+      "d": "each",
+      "t0": 16.869,
+      "t1": 17.19
+     },
+     {
+      "d": "with",
+      "t0": 17.19,
+      "t1": 17.449
+     },
+     {
+      "d": "a",
+      "t0": 17.449,
+      "t1": 17.539
+     },
+     {
+      "d": "hook",
+      "t0": 17.539,
+      "t1": 17.679
+     },
+     {
+      "d": "and",
+      "t0": 17.679,
+      "t1": 17.909
+     },
+     {
+      "d": "key",
+      "t0": 17.909,
+      "t1": 18.099
+     },
+     {
+      "d": "points.",
+      "t0": 18.099,
+      "t1": 18.8
+     }
+    ],
+    "text": "You get 10 angles like myths, tips, mistakes and checklists, each with a hook and key points."
+   }
+  },
+  {
+   "type": "checklist",
+   "title": "edit before posting",
+   "items": [
+    "Pick your best 5",
+    "Rewrite in your voice",
+    "Schedule for the week"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 3,
+   "vo": {
+    "start": 19.73,
+    "dur": 5.369,
+    "words": [
+     {
+      "d": "Step",
+      "t0": 19.78,
+      "t1": 20.0
+     },
+     {
+      "d": "three.",
+      "t0": 20.0,
+      "t1": 20.595
+     },
+     {
+      "d": "Pick",
+      "t0": 20.595,
+      "t1": 20.79
+     },
+     {
+      "d": "your",
+      "t0": 20.79,
+      "t1": 20.99
+     },
+     {
+      "d": "best",
+      "t0": 20.99,
+      "t1": 21.35
+     },
+     {
+      "d": "5,",
+      "t0": 21.35,
+      "t1": 21.555
+     },
+     {
+      "d": "rewrite",
+      "t0": 21.555,
+      "t1": 21.962
+     },
+     {
+      "d": "them",
+      "t0": 21.962,
+      "t1": 22.2
+     },
+     {
+      "d": "in",
+      "t0": 22.2,
+      "t1": 22.24
+     },
+     {
+      "d": "your",
+      "t0": 22.24,
+      "t1": 22.544
+     },
+     {
+      "d": "own",
+      "t0": 22.544,
+      "t1": 22.77
+     },
+     {
+      "d": "voice,",
+      "t0": 22.77,
+      "t1": 23.18
+     },
+     {
+      "d": "then",
+      "t0": 23.18,
+      "t1": 23.447
+     },
+     {
+      "d": "schedule",
+      "t0": 23.447,
+      "t1": 23.96
+     },
+     {
+      "d": "them",
+      "t0": 23.96,
+      "t1": 24.2
+     },
+     {
+      "d": "for",
+      "t0": 24.2,
+      "t1": 24.38
+     },
+     {
+      "d": "the",
+      "t0": 24.38,
+      "t1": 24.47
+     },
+     {
+      "d": "week.",
+      "t0": 24.47,
+      "t1": 25.018
+     }
+    ],
+    "text": "Step three. Pick your best 5, rewrite them in your own voice, then schedule them for the week."
+   }
+  },
+  {
+   "type": "card",
+   "title": "Your next move",
+   "items": [
+    "Pick 1 idea you know",
+    "Run the prompt",
+    "Post 1 draft today"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "TODAY",
+   "step": 0,
+   "vo": {
+    "start": 25.698,
+    "dur": 5.358,
+    "words": [
+     {
+      "d": "Check",
+      "t0": 25.748,
+      "t1": 25.998
+     },
+     {
+      "d": "every",
+      "t0": 25.998,
+      "t1": 26.358
+     },
+     {
+      "d": "fact",
+      "t0": 26.358,
+      "t1": 26.618
+     },
+     {
+      "d": "before",
+      "t0": 26.618,
+      "t1": 26.988
+     },
+     {
+      "d": "posting.",
+      "t0": 26.988,
+      "t1": 27.758
+     },
+     {
+      "d": "Then",
+      "t0": 27.758,
+      "t1": 28.048
+     },
+     {
+      "d": "post",
+      "t0": 28.048,
+      "t1": 28.318
+     },
+     {
+      "d": "one",
+      "t0": 28.318,
+      "t1": 28.524
+     },
+     {
+      "d": "today.",
+      "t0": 28.524,
+      "t1": 29.169
+     },
+     {
+      "d": "Save",
+      "t0": 29.169,
+      "t1": 29.427
+     },
+     {
+      "d": "this",
+      "t0": 29.427,
+      "t1": 29.686
+     },
+     {
+      "d": "for",
+      "t0": 29.686,
+      "t1": 29.938
+     },
+     {
+      "d": "your",
+      "t0": 29.938,
+      "t1": 30.137
+     },
+     {
+      "d": "next",
+      "t0": 30.137,
+      "t1": 30.418
+     },
+     {
+      "d": "idea.",
+      "t0": 30.418,
+      "t1": 30.976
+     }
+    ],
+    "text": "Check every fact before posting. Then post one today. Save this for your next idea."
+   }
+  }
+ ],
+ "cta": {
+  "start": 31.656,
+  "dur": 2.709,
+  "words": [
+   {
+    "d": "Follow",
+    "t0": 31.706,
+    "t1": 32.096
+   },
+   {
+    "d": "for",
+    "t0": 32.096,
+    "t1": 32.287
+   },
+   {
+    "d": "a",
+    "t0": 32.287,
+    "t1": 32.406
+   },
+   {
+    "d": "new",
+    "t0": 32.406,
+    "t1": 32.466
+   },
+   {
+    "d": "AI",
+    "t0": 32.466,
+    "t1": 32.674
+   },
+   {
+    "d": "income",
+    "t0": 32.674,
+    "t1": 33.066
+   },
+   {
+    "d": "method",
+    "t0": 33.066,
+    "t1": 33.448
+   },
+   {
+    "d": "every",
+    "t0": 33.448,
+    "t1": 33.696
+   },
+   {
+    "d": "day.",
+    "t0": 33.696,
+    "t1": 34.286
+   }
+  ],
+  "text": "Follow for a new AI income method every day.",
+  "highlight": "AI income method"
+ }
+}

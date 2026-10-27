@@ -1,0 +1,96 @@
+{
+  "topic": "Turn one idea into 10 posts with one AI prompt",
+  "term_tag": "content_multiplier",
+  "hook": {
+    "text": "Turn 1 idea into 10 posts in 3 steps",
+    "highlight": "10 posts"
+  },
+  "scenes": [
+    {
+      "type": "chat",
+      "step": 1,
+      "vo": "Step one. Open ChatGPT or Claude and paste this prompt. Both have free plans.",
+      "title": "",
+      "items": [],
+      "values": [],
+      "prompt": "Turn my idea [your idea] into 10 Instagram post ideas for [your audience]. Give each one a hook, 3 key points and a call to action. Keep it simple.",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "chat",
+      "step": 2,
+      "vo": "Step two. Swap in your idea and your audience. Hit enter.",
+      "title": "",
+      "items": [],
+      "values": [],
+      "prompt": "",
+      "fills": [
+        "meal prep",
+        "busy students"
+      ],
+      "big": ""
+    },
+    {
+      "type": "tiles",
+      "step": 0,
+      "vo": "You get 10 angles like myths, tips, mistakes and checklists, each with a hook and key points.",
+      "title": "1 idea, 10 angles",
+      "items": [
+        "#1: Myth to bust",
+        "#2: 3 quick tips",
+        "#3: Common mistake",
+        "#4: Simple checklist",
+        "#5: Story post"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "checklist",
+      "step": 3,
+      "vo": "Step three. Pick your best 5, rewrite them in your own voice, then schedule them for the week.",
+      "title": "edit before posting",
+      "items": [
+        "Pick your best 5",
+        "Rewrite in your voice",
+        "Schedule for the week"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "card",
+      "step": 0,
+      "vo": "Check every fact before posting. Then post one today. Save this for your next idea.",
+      "title": "Your next move",
+      "items": [
+        "Pick 1 idea you know",
+        "Run the prompt",
+        "Post 1 draft today"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "TODAY"
+    }
+  ],
+  "caption": "One idea can fill your whole week.\n\nUse this ChatGPT prompt to turn one idea into 10 posts for your AI side hustle.\n\nBonus tip: ask for the same idea as a Reel script, a carousel and a story.\n\nSend this to the friend who says they never know what to post.\n\nWhat idea are you turning into 10 posts?\n\nFollow @thepromptpaycheck for a new AI income method every day.",
+  "hashtags": [
+    "#aisidehustle",
+    "#aitools",
+    "#chatgptprompts",
+    "#contentideas",
+    "#socialmediatips"
+  ],
+  "kind": "reel",
+  "style": "motion",
+  "pillar": "Money mistakes and money protection (banking, debt, savings, scams)",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null
+}
