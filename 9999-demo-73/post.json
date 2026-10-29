@@ -1,0 +1,95 @@
+{
+  "topic": "Faceless YouTube real costs and timelines",
+  "term_tag": "faceless_yt_costs",
+  "hook": {
+    "text": "Start faceless YouTube for $50 a month or less",
+    "highlight": "$50 a month"
+  },
+  "scenes": [
+    {
+      "type": "compare",
+      "step": 0,
+      "vo": "Costs stay low. CapCut, Pexels and a phone mic are all free.",
+      "title": "paid vs free",
+      "items": [
+        "Hired editor || CapCut free plan",
+        "Paid stock clips || Pexels free clips",
+        "Studio mic || Phone voice memo"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "stat",
+      "step": 0,
+      "vo": "Add a paid voice tool and ChatGPT, and you're around $50 a month.",
+      "title": "monthly tool budget",
+      "items": [
+        "Voice tool + ChatGPT plan"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "$50 MAX"
+    },
+    {
+      "type": "tiles",
+      "step": 0,
+      "vo": "Many channels need 6 to 12 months or longer to qualify for ads.",
+      "title": "realistic timeline",
+      "items": [
+        "M1-3: Post, test topics",
+        "M4-6: Repeat what worked",
+        "M7-12: Aim for 1,000 subs"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "card",
+      "step": 0,
+      "vo": "Today, pick one niche and publish your first video this week.",
+      "title": "Your start",
+      "items": [
+        "Pick 1 narrow niche",
+        "Draft script in ChatGPT",
+        "Publish video 1 this week"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "TODAY"
+    }
+  ],
+  "page_prompt": {
+    "title": "Plan your faceless YouTube budget",
+    "summary": "A 90-day plan with a tool budget and a realistic posting schedule",
+    "category": "Content",
+    "prompt": "Act as a YouTube advisor for beginners. I want to start a faceless channel about [your niche] with a budget of [monthly budget] and [hours per week] to work each week. Give me a 90-day plan with a tool list and costs, a weekly posting schedule, and 10 video ideas. Say clearly where you are unsure of a fact or a fee.",
+    "then": "Turn video idea 1 into a 60-second script with a hook and 3 points.",
+    "tip": "Check current prices and YouTube's monetization rules on the official sites before you pay for anything.",
+    "fills": [
+      "personal finance basics for students",
+      "$30 a month",
+      "6 hours a week"
+    ]
+  },
+  "caption": "Faceless YouTube channel costs and timeline for beginners\n\nTools can stay free: CapCut, Pexels and a phone mic. Add a voice tool and ChatGPT and it's about $50 a month. Ad monetization needs 1,000 subscribers and 4,000 watch hours.\n\nComment your niche in one word.",
+  "hashtags": [
+    "#facelessyoutube",
+    "#youtubetips",
+    "#capcut",
+    "#youtubegrowth"
+  ],
+  "kind": "reel",
+  "style": "motion",
+  "pillar": "Digital products and side hustles, honest breakdowns",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null,
+  "voice": "kokoro:am_michael"
+}

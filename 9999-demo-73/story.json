@@ -1,0 +1,441 @@
+{
+ "fps": 30,
+ "duration": 26.638,
+ "handle": "thepromptpaycheck",
+ "termTag": "faceless_yt_costs",
+ "hook": {
+  "start": 0.12,
+  "dur": 3.264,
+  "words": [
+   {
+    "d": "Start",
+    "t0": 0.17,
+    "t1": 0.46
+   },
+   {
+    "d": "faceless",
+    "t0": 0.46,
+    "t1": 1.07
+   },
+   {
+    "d": "YouTube",
+    "t0": 1.07,
+    "t1": 1.594
+   },
+   {
+    "d": "for",
+    "t0": 1.594,
+    "t1": 1.76
+   },
+   {
+    "d": "$50",
+    "t0": 1.76,
+    "t1": 2.449
+   },
+   {
+    "d": "a",
+    "t0": 2.449,
+    "t1": 2.5
+   },
+   {
+    "d": "month",
+    "t0": 2.5,
+    "t1": 2.8
+   },
+   {
+    "d": "or",
+    "t0": 2.8,
+    "t1": 3.07
+   },
+   {
+    "d": "less",
+    "t0": 3.07,
+    "t1": 3.304
+   }
+  ],
+  "text": "Start faceless YouTube for $50 a month or less",
+  "highlight": "$50 a month"
+ },
+ "scenes": [
+  {
+   "type": "compare",
+   "title": "paid vs free",
+   "items": [
+    "Hired editor || CapCut free plan",
+    "Paid stock clips || Pexels free clips",
+    "Studio mic || Phone voice memo"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 0,
+   "vo": {
+    "start": 3.684,
+    "dur": 4.212,
+    "words": [
+     {
+      "d": "Costs",
+      "t0": 3.734,
+      "t1": 4.077
+     },
+     {
+      "d": "stay",
+      "t0": 4.077,
+      "t1": 4.274
+     },
+     {
+      "d": "low.",
+      "t0": 4.274,
+      "t1": 4.9
+     },
+     {
+      "d": "CapCut,",
+      "t0": 4.9,
+      "t1": 5.604
+     },
+     {
+      "d": "Pexels",
+      "t0": 5.604,
+      "t1": 5.884
+     },
+     {
+      "d": "and",
+      "t0": 5.884,
+      "t1": 6.169
+     },
+     {
+      "d": "a",
+      "t0": 6.169,
+      "t1": 6.194
+     },
+     {
+      "d": "phone",
+      "t0": 6.194,
+      "t1": 6.58
+     },
+     {
+      "d": "mic",
+      "t0": 6.58,
+      "t1": 6.786
+     },
+     {
+      "d": "are",
+      "t0": 6.786,
+      "t1": 6.994
+     },
+     {
+      "d": "all",
+      "t0": 6.994,
+      "t1": 7.198
+     },
+     {
+      "d": "free.",
+      "t0": 7.198,
+      "t1": 7.815
+     }
+    ],
+    "text": "Costs stay low. CapCut, Pexels and a phone mic are all free."
+   }
+  },
+  {
+   "type": "stat",
+   "title": "monthly tool budget",
+   "items": [
+    "Voice tool + ChatGPT plan"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "$50 MAX",
+   "step": 0,
+   "vo": {
+    "start": 8.395,
+    "dur": 4.747,
+    "words": [
+     {
+      "d": "Add",
+      "t0": 8.445,
+      "t1": 8.685
+     },
+     {
+      "d": "a",
+      "t0": 8.685,
+      "t1": 8.727
+     },
+     {
+      "d": "paid",
+      "t0": 8.727,
+      "t1": 9.009
+     },
+     {
+      "d": "voice",
+      "t0": 9.009,
+      "t1": 9.315
+     },
+     {
+      "d": "tool",
+      "t0": 9.315,
+      "t1": 9.643
+     },
+     {
+      "d": "and",
+      "t0": 9.643,
+      "t1": 9.865
+     },
+     {
+      "d": "ChatGPT,",
+      "t0": 9.865,
+      "t1": 10.575
+     },
+     {
+      "d": "and",
+      "t0": 10.575,
+      "t1": 10.855
+     },
+     {
+      "d": "you're",
+      "t0": 10.855,
+      "t1": 11.229
+     },
+     {
+      "d": "around",
+      "t0": 11.229,
+      "t1": 11.652
+     },
+     {
+      "d": "$50",
+      "t0": 11.652,
+      "t1": 12.287
+     },
+     {
+      "d": "a",
+      "t0": 12.287,
+      "t1": 12.415
+     },
+     {
+      "d": "month.",
+      "t0": 12.415,
+      "t1": 13.062
+     }
+    ],
+    "text": "Add a paid voice tool and ChatGPT, and you're around $50 a month."
+   }
+  },
+  {
+   "type": "tiles",
+   "title": "realistic timeline",
+   "items": [
+    "M1-3: Post, test topics",
+    "M4-6: Repeat what worked",
+    "M7-12: Aim for 1,000 subs"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 0,
+   "vo": {
+    "start": 13.542,
+    "dur": 4.395,
+    "words": [
+     {
+      "d": "Many",
+      "t0": 13.592,
+      "t1": 13.912
+     },
+     {
+      "d": "channels",
+      "t0": 13.912,
+      "t1": 14.512
+     },
+     {
+      "d": "need",
+      "t0": 14.512,
+      "t1": 14.802
+     },
+     {
+      "d": "6",
+      "t0": 14.802,
+      "t1": 14.922
+     },
+     {
+      "d": "to",
+      "t0": 14.922,
+      "t1": 14.992
+     },
+     {
+      "d": "12",
+      "t0": 14.992,
+      "t1": 15.22
+     },
+     {
+      "d": "months",
+      "t0": 15.22,
+      "t1": 15.642
+     },
+     {
+      "d": "or",
+      "t0": 15.642,
+      "t1": 15.892
+     },
+     {
+      "d": "longer",
+      "t0": 15.892,
+      "t1": 16.362
+     },
+     {
+      "d": "to",
+      "t0": 16.362,
+      "t1": 16.512
+     },
+     {
+      "d": "qualify",
+      "t0": 16.512,
+      "t1": 17.022
+     },
+     {
+      "d": "for",
+      "t0": 17.022,
+      "t1": 17.292
+     },
+     {
+      "d": "ads.",
+      "t0": 17.292,
+      "t1": 17.857
+     }
+    ],
+    "text": "Many channels need 6 to 12 months or longer to qualify for ads."
+   }
+  },
+  {
+   "type": "card",
+   "title": "Your start",
+   "items": [
+    "Pick 1 narrow niche",
+    "Draft script in ChatGPT",
+    "Publish video 1 this week"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "TODAY",
+   "step": 0,
+   "vo": {
+    "start": 18.537,
+    "dur": 3.492,
+    "words": [
+     {
+      "d": "Today,",
+      "t0": 18.587,
+      "t1": 19.084
+     },
+     {
+      "d": "pick",
+      "t0": 19.084,
+      "t1": 19.287
+     },
+     {
+      "d": "one",
+      "t0": 19.287,
+      "t1": 19.493
+     },
+     {
+      "d": "niche",
+      "t0": 19.493,
+      "t1": 19.737
+     },
+     {
+      "d": "and",
+      "t0": 19.737,
+      "t1": 20.017
+     },
+     {
+      "d": "publish",
+      "t0": 20.017,
+      "t1": 20.347
+     },
+     {
+      "d": "your",
+      "t0": 20.347,
+      "t1": 20.557
+     },
+     {
+      "d": "first",
+      "t0": 20.557,
+      "t1": 20.947
+     },
+     {
+      "d": "video",
+      "t0": 20.947,
+      "t1": 21.127
+     },
+     {
+      "d": "this",
+      "t0": 21.127,
+      "t1": 21.423
+     },
+     {
+      "d": "week.",
+      "t0": 21.423,
+      "t1": 21.949
+     }
+    ],
+    "text": "Today, pick one niche and publish your first video this week."
+   }
+  }
+ ],
+ "cta": {
+  "start": 22.479,
+  "dur": 2.709,
+  "words": [
+   {
+    "d": "Follow",
+    "t0": 22.529,
+    "t1": 22.919
+   },
+   {
+    "d": "for",
+    "t0": 22.919,
+    "t1": 23.109
+   },
+   {
+    "d": "a",
+    "t0": 23.109,
+    "t1": 23.229
+   },
+   {
+    "d": "new",
+    "t0": 23.229,
+    "t1": 23.289
+   },
+   {
+    "d": "AI",
+    "t0": 23.289,
+    "t1": 23.496
+   },
+   {
+    "d": "income",
+    "t0": 23.496,
+    "t1": 23.889
+   },
+   {
+    "d": "method",
+    "t0": 23.889,
+    "t1": 24.27
+   },
+   {
+    "d": "every",
+    "t0": 24.27,
+    "t1": 24.519
+   },
+   {
+    "d": "day.",
+    "t0": 24.519,
+    "t1": 25.108
+   }
+  ],
+  "text": "Follow for a new AI income method every day.",
+  "highlight": "AI income method"
+ }
+}
