@@ -2,6 +2,26 @@
  "updated": "2026-10-29",
  "prompts": [
   {
+   "id": "plan-a-faceless-youtube-channel-budget-1029",
+   "date": "2026-10-29",
+   "title": "Plan a faceless YouTube channel budget",
+   "summary": "A tool list, budget and 6-month timeline for your channel",
+   "category": "Content",
+   "reel": "https://www.instagram.com/reel/DfFczvojPc2/",
+   "reel_title": "Faceless YouTube: real costs and timelines",
+   "prompt": "Act as a faceless YouTube planner. My channel topic is [topic], my monthly budget is [budget] and I have [hours per week] to work on it. List free or low-cost tools for scripting, voiceover, footage and editing, then a 6-month posting timeline. Explain the current YouTube monetization requirements. Say when you are not sure of a fee or rule.",
+   "examples": {
+    "topic": "personal finance for students",
+    "budget": "$20",
+    "hours per week": "5 hours"
+   },
+   "then": [
+    "Turn month 1 into a list of 8 video ideas with working titles."
+   ],
+   "tip": "Check YouTube's own monetization page, because rules and tool fees change.",
+   "media_id": "18129410815866639"
+  },
+  {
    "id": "one-idea-10-posts",
    "date": "2026-10-28",
    "title": "Turn 1 idea into 10 posts",
@@ -10,8 +30,13 @@
    "reel": "https://www.instagram.com/reel/DfC3AyRAqFn/",
    "reel_title": "Turn one idea into 10 posts with one AI prompt",
    "prompt": "Turn this idea: [your idea] into 10 Instagram posts for [your audience]. Give each one a hook, 3 points and a CTA.",
-   "examples": {"your idea": "budget tips", "your audience": "college students"},
-   "then": ["Use 10 different angles, like a myth to bust, a quick checklist, a common mistake, a how-to, a short story and a before and after. Then write #1 as a 30-second reel script."],
+   "examples": {
+    "your idea": "budget tips",
+    "your audience": "college students"
+   },
+   "then": [
+    "Use 10 different angles, like a myth to bust, a quick checklist, a common mistake, a how-to, a short story and a before and after. Then write #1 as a 30-second reel script."
+   ],
    "tip": "Post one a day and one idea becomes 10 days of content."
   },
   {
@@ -24,8 +49,14 @@
    "reel": "",
    "reel_title": "Copy this before you pick another side hustle",
    "prompt": "I have [hours a week], [budget] to start, and I'm good at [skill]. Give me 5 side hustles I can start this week, ranked by the fastest path to a first $100. For each: the first 3 steps and the free tools to use.",
-   "examples": {"hours a week": "5 hours a week", "budget": "$0", "skill": "writing"},
-   "then": ["Build me a 7-day plan for #1."],
+   "examples": {
+    "hours a week": "5 hours a week",
+    "budget": "$0",
+    "skill": "writing"
+   },
+   "then": [
+    "Build me a 7-day plan for #1."
+   ],
    "tip": "Add your country at the end so it only suggests platforms that pay where you live."
   },
   {
@@ -37,8 +68,12 @@
    "reel": "https://www.instagram.com/reel/DfAM1yggeW2/",
    "reel_title": "'Passive income' is a lie (here's what it really means)",
    "prompt": "I'm thinking about [passive income idea]. Give me the honest version: how many hours of work before it earns anything, the upfront costs, how long a first sale usually takes, what keeps it running, and the 3 most common reasons people quit. End with one small test I can run this week before I commit.",
-   "examples": {"passive income idea": "selling printables on Etsy"},
-   "then": ["Turn that test into a checklist I can finish in 3 evenings."],
+   "examples": {
+    "passive income idea": "selling printables on Etsy"
+   },
+   "then": [
+    "Turn that test into a checklist I can finish in 3 evenings."
+   ],
    "tip": "If the AI gives you numbers, ask where they come from. Treat them as rough guesses."
   },
   {
@@ -50,8 +85,12 @@
    "reel": "",
    "reel_title": "",
    "prompt": "Here's my video script: [paste your script]. Cut it into a 30-second reel. Start with a hook that works in the first 2 seconds, keep one idea per line, give on-screen text for each line (max 6 words) and a b-roll idea for each line, and end with a line that makes people want to rewatch.",
-   "examples": {"paste your script": "Most people quit YouTube after 10 videos. The ones who make it pick one topic, post on a schedule, and study their best video every month."},
-   "then": ["Give me 5 other hooks for the same reel, each under 10 words."],
+   "examples": {
+    "paste your script": "Most people quit YouTube after 10 videos. The ones who make it pick one topic, post on a schedule, and study their best video every month."
+   },
+   "then": [
+    "Give me 5 other hooks for the same reel, each under 10 words."
+   ],
    "tip": "Read the hook out loud. If it takes more than 2 seconds to say, cut it."
   },
   {
@@ -63,8 +102,13 @@
    "reel": "https://www.instagram.com/reel/De4RK8dDxJI/",
    "reel_title": "Where to sell digital products (Gumroad, Etsy, Payhip)",
    "prompt": "I want to sell [product] to [buyer]. Compare Gumroad, Etsy and Payhip for my case: who already shops there, fees, how buyers would find me, and setup time. If you're not sure about a current fee, say so and tell me where to check. Then pick one and write my first listing title and 5 tags.",
-   "examples": {"product": "printable wedding planners", "buyer": "couples planning on a budget"},
-   "then": ["What should I do in my first 14 days on that platform?"],
+   "examples": {
+    "product": "printable wedding planners",
+    "buyer": "couples planning on a budget"
+   },
+   "then": [
+    "What should I do in my first 14 days on that platform?"
+   ],
    "tip": "Fees change. Check each platform's pricing page before you decide."
   },
   {
@@ -76,8 +120,12 @@
    "reel": "https://www.instagram.com/reel/De116rwgXnz/",
    "reel_title": "Selling Notion templates: the honest breakdown",
    "prompt": "I want to sell a Notion template for [use]. Be honest: who would pay for this, which free templates already do the same, and what would make mine worth paying for. Then list the pages and databases it needs, and suggest a price range with your reasoning.",
-   "examples": {"use": "tracking freelance clients and invoices"},
-   "then": ["Write a 5-step setup guide a buyer could follow in 10 minutes."],
+   "examples": {
+    "use": "tracking freelance clients and invoices"
+   },
+   "then": [
+    "Write a 5-step setup guide a buyer could follow in 10 minutes."
+   ],
    "tip": "If the AI says free versions already do this well, pick a narrower buyer instead of giving up."
   },
   {
@@ -89,8 +137,13 @@
    "reel": "https://www.instagram.com/reel/DezPPaTlGeb/",
    "reel_title": "Make a full ebook outline with AI in 2 minutes",
    "prompt": "Outline a short ebook about [topic] for [reader]. Give me a title and subtitle, 7 chapters with 3 key points each, one quick exercise per chapter, and a one-sentence promise for the cover. Keep it practical, about 30 pages in total.",
-   "examples": {"topic": "meal prep on a budget", "reader": "busy parents"},
-   "then": ["Write chapter 1 in simple words and short paragraphs, with one real-life example per point."],
+   "examples": {
+    "topic": "meal prep on a budget",
+    "reader": "busy parents"
+   },
+   "then": [
+    "Write chapter 1 in simple words and short paragraphs, with one real-life example per point."
+   ],
    "tip": "Check every fact and number before you sell it. AI makes things up with confidence."
   },
   {
@@ -102,8 +155,13 @@
    "reel": "https://www.instagram.com/reel/DewqJVdimru/",
    "reel_title": "Why your first $100 online matters most",
    "prompt": "Help me turn [skill] into a small service I can sell this week for [price range]. Give me the offer in one sentence, who to offer it to, where to find them for free, a short message to send them, and exactly what I deliver. I'm a beginner with no portfolio, so keep it realistic.",
-   "examples": {"skill": "Canva design", "price range": "$20 to $50"},
-   "then": ["Write 3 versions of that message: friendly, direct, and one for a business I already buy from."],
+   "examples": {
+    "skill": "Canva design",
+    "price range": "$20 to $50"
+   },
+   "then": [
+    "Write 3 versions of that message: friendly, direct, and one for a business I already buy from."
+   ],
    "tip": "Send the message to 10 people before you change anything. Replies teach you more than planning."
   },
   {
@@ -115,8 +173,13 @@
    "reel": "https://www.instagram.com/reel/DeuEDbXkyKG/",
    "reel_title": "AI voiceover freelancing: how it works",
    "prompt": "Write a Fiverr gig for [service] aimed at [client type]. Include a title under 80 characters, a description that opens with the client's problem, 3 packages (basic, standard, premium) with what's included and the delivery time, and answers to 5 common questions. If AI does part of the work, say so plainly in the description.",
-   "examples": {"service": "AI voiceovers in English", "client type": "YouTube explainer channels"},
-   "then": ["Suggest 5 search tags and a gig image idea that stands out in the results."],
+   "examples": {
+    "service": "AI voiceovers in English",
+    "client type": "YouTube explainer channels"
+   },
+   "then": [
+    "Suggest 5 search tags and a gig image idea that stands out in the results."
+   ],
    "tip": "Read Fiverr's rules on AI-made work, and check that your AI tool's license allows paid use."
   },
   {
@@ -128,8 +191,13 @@
    "reel": "https://www.instagram.com/reel/DertpLxlOax/",
    "reel_title": "Use ChatGPT to write a product description in 60 seconds",
    "prompt": "Write a product description for [product] sold to [buyer]. Open with the problem it solves in one line, then 3 bullet points on benefits (not features), what's included, and a one-line call to buy. Plain words, under 120 words. Then give me 3 title options under 60 characters.",
-   "examples": {"product": "a Notion budget template", "buyer": "freelancers with irregular income"},
-   "then": ["Now rewrite it for Etsy: a title that starts with the words buyers search for, plus 13 tags."],
+   "examples": {
+    "product": "a Notion budget template",
+    "buyer": "freelancers with irregular income"
+   },
+   "then": [
+    "Now rewrite it for Etsy: a title that starts with the words buyers search for, plus 13 tags."
+   ],
    "tip": "Paste a competitor's description first and ask what yours should do better."
   },
   {
@@ -141,7 +209,9 @@
    "reel": "https://www.instagram.com/reel/Deo0K4aApTP/",
    "reel_title": "3 'make money online' ads that are scams",
    "prompt": "Here is an offer I saw online: [paste the ad or message]. Check it for scam red flags: guaranteed income, upfront fees, pressure to act fast, a vague product, fake-looking reviews, or payment by gift card or crypto. Rate the risk low, medium or high, explain why in plain words, and tell me how to verify it before I pay anything.",
-   "examples": {"paste the ad or message": "Earn $500 a day from your phone. No experience needed. Pay $49 to join, spots close tonight!"},
+   "examples": {
+    "paste the ad or message": "Earn $500 a day from your phone. No experience needed. Pay $49 to join, spots close tonight!"
+   },
    "then": [],
    "tip": "Never pay to get a job, and never pay with gift cards. Real platforms don't ask for that."
   },
@@ -154,8 +224,12 @@
    "reel": "https://www.instagram.com/reel/DekByofFVxY/",
    "reel_title": "How people sell Canva templates, step by step",
    "prompt": "Give me 10 Canva template ideas for [niche] that people would pay for. For each: who buys it, what problem it solves, and how many pages it needs. Mark the 3 fastest to make. Then write an Etsy title and description for the best one.",
-   "examples": {"niche": "small bakeries"},
-   "then": ["List exactly what goes on each page of that template."],
+   "examples": {
+    "niche": "small bakeries"
+   },
+   "then": [
+    "List exactly what goes on each page of that template."
+   ],
    "tip": "Search the idea on Etsy first. No sellers can mean no buyers; thousands means pick a smaller angle."
   },
   {
@@ -167,8 +241,13 @@
    "reel": "https://www.instagram.com/p/DeiYsQzmq7R/",
    "reel_title": "How to make a prompt pack in one weekend",
    "prompt": "Help me make a prompt pack for [audience] who want to [goal]. Give me 25 prompts in 5 sections, each with one line on when to use it. Make every prompt specific to them, not generic. Then suggest a product name, a 3-line sales description and one bonus to include.",
-   "examples": {"audience": "real estate agents", "goal": "write listings faster"},
-   "then": ["Run prompt #1 on a real example and show me the result, so I can judge if it's good enough to sell."],
+   "examples": {
+    "audience": "real estate agents",
+    "goal": "write listings faster"
+   },
+   "then": [
+    "Run prompt #1 on a real example and show me the result, so I can judge if it's good enough to sell."
+   ],
    "tip": "Test every prompt yourself before you sell the pack. Cut the ones that give weak answers."
   }
  ]
