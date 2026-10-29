@@ -1,0 +1,82 @@
+{
+  "topic": "Faceless YouTube: real costs and timelines",
+  "term_tag": "faceless_youtube_math",
+  "hook": {
+    "text": "Faceless YouTube for under $20 a month",
+    "highlight": "$20 a month"
+  },
+  "scenes": [
+    {
+      "type": "compare",
+      "step": 0,
+      "vo": "Costs stay low: ChatGPT for scripts, CapCut for editing, Pexels for free clips.",
+      "title": "paid vs free",
+      "items": [
+        "Script writer || ChatGPT free plan",
+        "Paid editor || CapCut free plan",
+        "Stock footage fee || Pexels free clips"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "stat",
+      "step": 0,
+      "vo": "The real cost is time. Many take 6 to 12 months to earn.",
+      "title": "time many channels take",
+      "items": [
+        "Common, not a rule"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "6-12 MO"
+    },
+    {
+      "type": "tiles",
+      "step": 0,
+      "vo": "Post twice a week, check stats monthly, and aim for 1,000 subscribers.",
+      "title": "a realistic first 6 months",
+      "items": [
+        "WEEK 1: Pick one niche",
+        "MO 1: Post 8 videos",
+        "MO 3: Review your stats",
+        "MO 6+: Aim for 1,000 subs"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "card",
+      "step": 0,
+      "vo": "Today, pick one niche and write your first script. Start free.",
+      "title": "Start small",
+      "items": [
+        "Pick 1 niche",
+        "Script it in ChatGPT",
+        "Keep costs under $20"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "TODAY"
+    }
+  ],
+  "caption": "Faceless YouTube channel costs: under $20 a month to start\n\nFree tools cover a lot: ChatGPT, CapCut and Pexels. The real cost is time, and many channels take 6 to 12 months to earn.\n\nWhich niche would you pick? Comment one word.",
+  "hashtags": [
+    "#facelessyoutube",
+    "#youtubeautomation",
+    "#youtubemonetization",
+    "#capcut"
+  ],
+  "kind": "reel",
+  "style": "motion",
+  "pillar": "Digital products and side hustles, honest breakdowns",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null
+}

@@ -1,0 +1,432 @@
+{
+ "fps": 30,
+ "duration": 27.06,
+ "handle": "thepromptpaycheck",
+ "termTag": "faceless_youtube_math",
+ "hook": {
+  "start": 0.12,
+  "dur": 2.822,
+  "words": [
+   {
+    "d": "Faceless",
+    "t0": 0.17,
+    "t1": 0.68
+   },
+   {
+    "d": "YouTube",
+    "t0": 0.68,
+    "t1": 1.233
+   },
+   {
+    "d": "for",
+    "t0": 1.233,
+    "t1": 1.49
+   },
+   {
+    "d": "under",
+    "t0": 1.49,
+    "t1": 1.72
+   },
+   {
+    "d": "$20",
+    "t0": 1.72,
+    "t1": 2.38
+   },
+   {
+    "d": "a",
+    "t0": 2.38,
+    "t1": 2.508
+   },
+   {
+    "d": "month",
+    "t0": 2.508,
+    "t1": 2.862
+   }
+  ],
+  "text": "Faceless YouTube for under $20 a month",
+  "highlight": "$20 a month"
+ },
+ "scenes": [
+  {
+   "type": "compare",
+   "title": "paid vs free",
+   "items": [
+    "Script writer || ChatGPT free plan",
+    "Paid editor || CapCut free plan",
+    "Stock footage fee || Pexels free clips"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 0,
+   "vo": {
+    "start": 3.242,
+    "dur": 5.568,
+    "words": [
+     {
+      "d": "Costs",
+      "t0": 3.292,
+      "t1": 3.622
+     },
+     {
+      "d": "stay",
+      "t0": 3.622,
+      "t1": 3.842
+     },
+     {
+      "d": "low:",
+      "t0": 3.842,
+      "t1": 4.292
+     },
+     {
+      "d": "ChatGPT",
+      "t0": 4.292,
+      "t1": 4.85
+     },
+     {
+      "d": "for",
+      "t0": 4.85,
+      "t1": 5.112
+     },
+     {
+      "d": "scripts,",
+      "t0": 5.112,
+      "t1": 5.812
+     },
+     {
+      "d": "CapCut",
+      "t0": 5.812,
+      "t1": 6.252
+     },
+     {
+      "d": "for",
+      "t0": 6.252,
+      "t1": 6.462
+     },
+     {
+      "d": "editing,",
+      "t0": 6.462,
+      "t1": 7.136
+     },
+     {
+      "d": "Pexels",
+      "t0": 7.136,
+      "t1": 7.482
+     },
+     {
+      "d": "for",
+      "t0": 7.482,
+      "t1": 7.76
+     },
+     {
+      "d": "free",
+      "t0": 7.76,
+      "t1": 7.972
+     },
+     {
+      "d": "clips.",
+      "t0": 7.972,
+      "t1": 8.73
+     }
+    ],
+    "text": "Costs stay low: ChatGPT for scripts, CapCut for editing, Pexels for free clips."
+   }
+  },
+  {
+   "type": "stat",
+   "title": "time many channels take",
+   "items": [
+    "Common, not a rule"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "6-12 MO",
+   "step": 0,
+   "vo": {
+    "start": 9.31,
+    "dur": 3.841,
+    "words": [
+     {
+      "d": "The",
+      "t0": 9.36,
+      "t1": 9.5
+     },
+     {
+      "d": "real",
+      "t0": 9.5,
+      "t1": 9.79
+     },
+     {
+      "d": "cost",
+      "t0": 9.79,
+      "t1": 10.08
+     },
+     {
+      "d": "is",
+      "t0": 10.08,
+      "t1": 10.287
+     },
+     {
+      "d": "time.",
+      "t0": 10.287,
+      "t1": 10.85
+     },
+     {
+      "d": "Many",
+      "t0": 10.85,
+      "t1": 11.14
+     },
+     {
+      "d": "take",
+      "t0": 11.14,
+      "t1": 11.49
+     },
+     {
+      "d": "6",
+      "t0": 11.49,
+      "t1": 11.63
+     },
+     {
+      "d": "to",
+      "t0": 11.63,
+      "t1": 11.73
+     },
+     {
+      "d": "12",
+      "t0": 11.73,
+      "t1": 11.83
+     },
+     {
+      "d": "months",
+      "t0": 11.83,
+      "t1": 12.23
+     },
+     {
+      "d": "to",
+      "t0": 12.23,
+      "t1": 12.47
+     },
+     {
+      "d": "earn.",
+      "t0": 12.47,
+      "t1": 13.07
+     }
+    ],
+    "text": "The real cost is time. Many take 6 to 12 months to earn."
+   }
+  },
+  {
+   "type": "tiles",
+   "title": "a realistic first 6 months",
+   "items": [
+    "WEEK 1: Pick one niche",
+    "MO 1: Post 8 videos",
+    "MO 3: Review your stats",
+    "MO 6+: Aim for 1,000 subs"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "",
+   "step": 0,
+   "vo": {
+    "start": 13.55,
+    "dur": 4.864,
+    "words": [
+     {
+      "d": "Post",
+      "t0": 13.6,
+      "t1": 13.85
+     },
+     {
+      "d": "twice",
+      "t0": 13.85,
+      "t1": 14.18
+     },
+     {
+      "d": "a",
+      "t0": 14.18,
+      "t1": 14.297
+     },
+     {
+      "d": "week,",
+      "t0": 14.297,
+      "t1": 14.819
+     },
+     {
+      "d": "check",
+      "t0": 14.819,
+      "t1": 15.13
+     },
+     {
+      "d": "stats",
+      "t0": 15.13,
+      "t1": 15.48
+     },
+     {
+      "d": "monthly,",
+      "t0": 15.48,
+      "t1": 16.23
+     },
+     {
+      "d": "and",
+      "t0": 16.23,
+      "t1": 16.455
+     },
+     {
+      "d": "aim",
+      "t0": 16.455,
+      "t1": 16.69
+     },
+     {
+      "d": "for",
+      "t0": 16.69,
+      "t1": 16.872
+     },
+     {
+      "d": "1,000",
+      "t0": 16.872,
+      "t1": 17.15
+     },
+     {
+      "d": "subscribers.",
+      "t0": 17.15,
+      "t1": 18.334
+     }
+    ],
+    "text": "Post twice a week, check stats monthly, and aim for 1,000 subscribers."
+   }
+  },
+  {
+   "type": "card",
+   "title": "Start small",
+   "items": [
+    "Pick 1 niche",
+    "Script it in ChatGPT",
+    "Keep costs under $20"
+   ],
+   "values": [],
+   "prompt": "",
+   "fills": [],
+   "big": "TODAY",
+   "step": 0,
+   "vo": {
+    "start": 19.014,
+    "dur": 3.437,
+    "words": [
+     {
+      "d": "Today,",
+      "t0": 19.064,
+      "t1": 19.434
+     },
+     {
+      "d": "pick",
+      "t0": 19.434,
+      "t1": 19.726
+     },
+     {
+      "d": "one",
+      "t0": 19.726,
+      "t1": 19.884
+     },
+     {
+      "d": "niche",
+      "t0": 19.884,
+      "t1": 20.094
+     },
+     {
+      "d": "and",
+      "t0": 20.094,
+      "t1": 20.308
+     },
+     {
+      "d": "write",
+      "t0": 20.308,
+      "t1": 20.614
+     },
+     {
+      "d": "your",
+      "t0": 20.614,
+      "t1": 20.784
+     },
+     {
+      "d": "first",
+      "t0": 20.784,
+      "t1": 20.984
+     },
+     {
+      "d": "script.",
+      "t0": 20.984,
+      "t1": 21.63
+     },
+     {
+      "d": "Start",
+      "t0": 21.63,
+      "t1": 21.924
+     },
+     {
+      "d": "free.",
+      "t0": 21.924,
+      "t1": 22.371
+     }
+    ],
+    "text": "Today, pick one niche and write your first script. Start free."
+   }
+  }
+ ],
+ "cta": {
+  "start": 22.901,
+  "dur": 2.709,
+  "words": [
+   {
+    "d": "Follow",
+    "t0": 22.951,
+    "t1": 23.341
+   },
+   {
+    "d": "for",
+    "t0": 23.341,
+    "t1": 23.531
+   },
+   {
+    "d": "a",
+    "t0": 23.531,
+    "t1": 23.651
+   },
+   {
+    "d": "new",
+    "t0": 23.651,
+    "t1": 23.711
+   },
+   {
+    "d": "AI",
+    "t0": 23.711,
+    "t1": 23.918
+   },
+   {
+    "d": "income",
+    "t0": 23.918,
+    "t1": 24.311
+   },
+   {
+    "d": "method",
+    "t0": 24.311,
+    "t1": 24.692
+   },
+   {
+    "d": "every",
+    "t0": 24.692,
+    "t1": 24.941
+   },
+   {
+    "d": "day.",
+    "t0": 24.941,
+    "t1": 25.53
+   }
+  ],
+  "text": "Follow for a new AI income method every day.",
+  "highlight": "AI income method"
+ }
+}
