@@ -1,0 +1,67 @@
+name: Publish prompt page to Cloudflare Pages
+
+# Runs when the page changes (the bot adds a prompt after each reel). Media uploads don't trigger it.
+# Until the two secrets below exist it only leaves a note, so the GitHub Pages copy keeps working on its own.
+#   CLOUDFLARE_API_TOKEN   token with Account > Cloudflare Pages > Edit
+#   CLOUDFLARE_ACCOUNT_ID  from the Cloudflare dashboard (Workers & Pages, right-hand side)
+# Optional variables: CF_PAGES_PROJECT (default promptpaycheck), SITE_URL (the page's final address, for link previews)
+
+on:
+  push:
+    branches: [main]
+    paths: ["index.html", "prompts.json", "assets/**", ".github/workflows/site.yml"]
+  workflow_dispatch:
+
+concurrency:
+  group: cloudflare-site
+  cancel-in-progress: true   # only the newest version of the page matters
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      PROJECT: ${{ vars.CF_PAGES_PROJECT || 'promptpaycheck' }}
+      SITE_URL: ${{ vars.SITE_URL }}
+    steps:
+      - name: Check setup
+        id: check
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::notice title=Cloudflare not set up yet::Add the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets to publish the prompt page on Cloudflare Pages."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.check.outputs.go == 'true'
+        with:
+          sparse-checkout: assets   # plus the files at the top level; the reel folders are never downloaded
+          filter: blob:none
+
+      - name: Collect the page files
+        if: steps.check.outputs.go == 'true'
+        run: |
+          mkdir _site
+          cp index.html prompts.json _site/
+          cp -r assets _site/
+          if [ -n "$SITE_URL" ]; then
+            sed -i "s#https://hisokadrip.github.io/promptpaycheck-media/#${SITE_URL%/}/#g" _site/index.html
+          fi
+          printf '/assets/*\n  Cache-Control: public, max-age=604800\n' > _site/_headers
+          ls -la _site
+
+      - name: Create the Cloudflare project (first run only)
+        if: steps.check.outputs.go == 'true'
+        run: npx -y wrangler@4 pages project create "$PROJECT" --production-branch=main || echo "Project already exists."
+
+      - name: Deploy
+        if: steps.check.outputs.go == 'true'
+        run: |
+          set -o pipefail
+          npx -y wrangler@4 pages deploy _site --project-name="$PROJECT" --branch=main --commit-dirty=true | tee deploy.log
+          url=$(grep -Eo 'https://[a-z0-9.-]+\.pages\.dev' deploy.log | tail -1)
+          echo "::notice title=Prompt page published::Live at https://${PROJECT}.pages.dev (this deploy: ${url:-see log})"
