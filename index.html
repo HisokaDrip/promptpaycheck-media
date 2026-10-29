@@ -775,7 +775,7 @@ html.js:not(.rm) .card.pre{opacity:0;transform:translateY(28px) scale(.97)}
     if (p.tip) parts.push(h('p', { class: 'tip' }, h('b', { text: 'TIP' }), h('span', { text: p.tip })));
 
     const foot = h('div', { class: 'cfoot' });
-    if (p.reel) foot.append(h('a', { class: 'from', href: p.reel, target: '_blank', rel: 'noopener' }, h('span', { class: 'play', html: ICON.play, 'aria-hidden': 'true' }), /\/reel\//.test(p.reel) ? 'Watch the reel' : 'See the post', icon('out')));
+    if (/^https:\/\/(www\.)?instagram\.com\//.test(p.reel || '')) foot.append(h('a', { class: 'from', href: p.reel, target: '_blank', rel: 'noopener' }, h('span', { class: 'play', html: ICON.play, 'aria-hidden': 'true' }), /\/reel\//.test(p.reel) ? 'Watch the reel' : 'See the post', icon('out')));
     else if (p.reel_title) foot.append(h('span', { class: 'from plain', text: 'From the reel “' + p.reel_title + '”' }));
     else foot.append(h('span'));
     foot.append(h('button', { class: 'lk m', type: 'button', onclick: () => share(p.title, p.summary || p.title, PAGE_URL + '#' + p.id) }, icon('link'), 'Share this prompt'));
