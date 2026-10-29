@@ -1,0 +1,82 @@
+{
+  "topic": "Faceless YouTube real costs and timelines",
+  "term_tag": "faceless_youtube",
+  "hook": {
+    "text": "Start faceless YouTube for under $20 a month",
+    "highlight": "$20 a month"
+  },
+  "scenes": [
+    {
+      "type": "tiles",
+      "step": 0,
+      "vo": "ChatGPT, CapCut and Pexels are free. AI voice costs $0 to $15 a month.",
+      "title": "monthly costs",
+      "items": [
+        "SCRIPT: ChatGPT, free",
+        "EDIT: CapCut, free",
+        "CLIPS: Pexels, free",
+        "VOICE: $0-$15 a month"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "stat",
+      "step": 0,
+      "vo": "To earn from YouTube ads, you need 1,000 subscribers and 4,000 watch hours in 12 months.",
+      "title": "YouTube pay minimum",
+      "items": [
+        "plus 4,000 watch hours"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "1,000 SUBS"
+    },
+    {
+      "type": "tiles",
+      "step": 0,
+      "vo": "Plan on months. Post twice a week, improve each video; many take 6 to 12 months.",
+      "title": "realistic timeline",
+      "items": [
+        "MO 1-2: Post 2x a week",
+        "MO 3-6: Fix titles, thumbs",
+        "MO 6+: Many take 6-12 months"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": ""
+    },
+    {
+      "type": "card",
+      "step": 0,
+      "vo": "Today: pick one niche, write one script with ChatGPT, post video 1 this week.",
+      "title": "Your start",
+      "items": [
+        "Pick one niche",
+        "Write 1 script with AI",
+        "Post video 1 this week"
+      ],
+      "values": [],
+      "prompt": "",
+      "fills": [],
+      "big": "TODAY"
+    }
+  ],
+  "caption": "Faceless YouTube costs and timeline for beginners\n\nFree tools: ChatGPT, CapCut, Pexels. AI voice runs about $0-$15 a month. Ad pay needs 1,000 subscribers and 4,000 watch hours, and many channels take 6-12 months.\n\nWhich niche would you pick? Comment one word.",
+  "hashtags": [
+    "#facelessyoutube",
+    "#youtubeforbeginners",
+    "#youtubemonetization",
+    "#capcut"
+  ],
+  "kind": "reel",
+  "style": "motion",
+  "pillar": "Digital products and side hustles, honest breakdowns",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null
+}
