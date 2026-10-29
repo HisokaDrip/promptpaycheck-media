@@ -22,7 +22,13 @@ jobs:
     timeout-minutes: 10
     env:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || vars.CLOUDFLARE_ACCOUNT_ID }}   # the account ID isn't secret, a variable works too
+      # what the check can see (never the values)
+      SEEN: >-
+        token secret=${{ secrets.CLOUDFLARE_API_TOKEN != '' }},
+        token variable=${{ vars.CLOUDFLARE_API_TOKEN != '' }},
+        account secret=${{ secrets.CLOUDFLARE_ACCOUNT_ID != '' }},
+        account variable=${{ vars.CLOUDFLARE_ACCOUNT_ID != '' }}
       PROJECT: ${{ vars.CF_PAGES_PROJECT || 'promptpaycheck' }}
       SITE_URL: ${{ vars.SITE_URL }}
     steps:
@@ -30,7 +36,7 @@ jobs:
         id: check
         run: |
           if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
-            echo "::notice title=Cloudflare not set up yet::Add the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets to publish the prompt page on Cloudflare Pages."
+            echo "::notice title=Cloudflare not set up yet::Add the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets (Settings > Secrets and variables > Actions > Repository secrets of this repo). Seen: $SEEN"
             echo "go=false" >> "$GITHUB_OUTPUT"
           else
             echo "go=true" >> "$GITHUB_OUTPUT"
