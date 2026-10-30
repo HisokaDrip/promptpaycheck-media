@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "prompts": [
+  {
+   "id": "build-your-90-day-skill-plan-1030",
+   "date": "2026-10-30",
+   "title": "Build your 90-day skill plan",
+   "summary": "A weekly and daily plan to build one skill in 90 days",
+   "category": "Side hustles",
+   "reel": "https://www.instagram.com/reel/DfIAUVWFITM/",
+   "reel_title": "The 90-day consistency rule",
+   "prompt": "Make a 90-day plan to learn [your skill] for [daily time] a day, aiming for [your goal]. Split it into 3 months with weekly goals and one small daily task. Include 5 practice projects I can share publicly. Say if you are unsure about any tool, fee or time estimate.",
+   "examples": {
+    "your skill": "logo design",
+    "daily time": "30 minutes",
+    "your goal": "a small portfolio"
+   },
+   "then": [
+    "Turn week 1 into a day-by-day checklist I can print."
+   ],
+   "tip": "Pick one skill only. Tick off each day and restart the next day if you miss one.",
+   "media_id": "18100810292405458"
+  },
   {
    "id": "plan-a-faceless-youtube-channel-budget-1029",
    "date": "2026-10-29",
