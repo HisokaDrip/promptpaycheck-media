@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "prompts": [
+  {
+   "id": "write-a-logo-brief-for-any-client-1031",
+   "date": "2026-10-31",
+   "title": "Write a logo brief for any client",
+   "summary": "3 palettes, 2 font pairs and 5 symbol ideas for a logo brief",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/DfKfcFIgJig/",
+   "reel_title": "AI logo design for freelance clients",
+   "prompt": "Act as a brand designer. Write a logo brief for a [business type] aimed at [audience] with a [style] look. Give 3 color palettes with hex codes, 2 font pairings, 5 symbol ideas and 3 questions to ask the client. Tell me if you're unsure about any font license or fee.",
+   "examples": {
+    "business type": "bakery",
+    "audience": "local families",
+    "style": "friendly and warm"
+   },
+   "then": [
+    "Turn the best palette into a 1-page style guide I can send the client."
+   ],
+   "tip": "Check each tool's license terms before you hand a logo to a client.",
+   "media_id": "18109084499343309"
+  },
   {
    "id": "build-your-90-day-skill-plan-1030",
    "date": "2026-10-30",
