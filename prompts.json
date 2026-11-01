@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "prompts": [
+  {
+   "id": "audit-your-bank-statement-with-ai-1101",
+   "date": "2026-11-01",
+   "title": "Audit your bank statement with AI",
+   "summary": "Recurring charges, fees and duplicates sorted by category",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DfNK9HuDyn4/",
+   "reel_title": "Free AI bank statement audit",
+   "prompt": "Here are my bank transactions from [time period], with my name and account numbers removed. Sort them into categories and total each one. List recurring charges, fees and possible duplicates. Tell me if you are unsure about any charge. Transactions: [pasted rows]",
+   "examples": {
+    "time period": "last 30 days",
+    "pasted rows": "date, description, amount rows"
+   },
+   "then": [
+    "Which 3 recurring charges could I cancel first? Give me the steps to cancel each one."
+   ],
+   "tip": "Remove your name and account numbers first, and check the totals yourself.",
+   "media_id": "18138576166654792"
+  },
   {
    "id": "write-a-logo-brief-for-any-client-1031",
    "date": "2026-10-31",
