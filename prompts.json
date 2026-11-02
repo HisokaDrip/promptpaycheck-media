@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "prompts": [
+  {
+   "id": "find-a-print-on-demand-niche-1102",
+   "date": "2026-11-02",
+   "title": "Find a print on demand niche",
+   "summary": "5 narrow niches with a product and slogan idea for each",
+   "category": "Side hustles",
+   "reel": "https://www.instagram.com/reel/DfQG1Wkkjml/",
+   "reel_title": "Print on demand in 2026",
+   "prompt": "Give me 5 narrow print on demand niches for [audience] who love [interest]. For each niche, name 1 product type (mug, tote, sticker, shirt), 1 slogan idea, and 1 reason it might be less crowded. My budget to test is [budget]. Tell me if you are unsure about any fee or platform rule.",
+   "examples": {
+    "audience": "dog owners",
+    "interest": "hiking",
+    "budget": "$50"
+   },
+   "then": [
+    "Pick niche 1 and write 5 short design ideas and an Etsy listing title for each."
+   ],
+   "tip": "Search your top niche on Etsy first. If thousands of near-identical listings appear, narrow it down more.",
+   "media_id": "17905493175601045"
+  },
   {
    "id": "audit-your-bank-statement-with-ai-1101",
    "date": "2026-11-01",
