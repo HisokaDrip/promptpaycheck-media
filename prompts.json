@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "prompts": [
+  {
+   "id": "price-your-first-digital-product-1103",
+   "date": "2026-11-03",
+   "title": "Price your first digital product",
+   "summary": "Low, mid and high price options, each with a reason",
+   "category": "Digital products",
+   "reel": "https://www.instagram.com/reel/DfSbWNIis3b/",
+   "reel_title": "How to price your first digital product",
+   "prompt": "I am selling a digital product: [your product] for [your audience]. Similar products on Etsy or Gumroad sell for [prices you found]. Suggest a low, mid and high price and explain each in one line. Tell me which to start with and when to review it. Say if you are unsure about any platform fee.",
+   "examples": {
+    "your product": "Notion budget planner",
+    "your audience": "Students and new grads",
+    "prices you found": "$7, $9, $12, $15, $19"
+   },
+   "then": [
+    "Now write a one-line reason a buyer would pay the mid price instead of the low one."
+   ],
+   "tip": "Use real prices from 5 products you looked up yourself, not guesses.",
+   "media_id": "18121004038767725"
+  },
   {
    "id": "find-a-print-on-demand-niche-1102",
    "date": "2026-11-02",
