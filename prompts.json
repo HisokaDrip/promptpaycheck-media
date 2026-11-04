@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "prompts": [
+  {
+   "id": "check-a-dropshipping-product-s-profit-1104",
+   "date": "2026-11-04",
+   "title": "Check a dropshipping product's profit",
+   "summary": "Profit per sale estimate and a clear go or skip verdict",
+   "category": "Side hustles",
+   "reel": "https://www.instagram.com/reel/DfVCDXcn_B7/",
+   "reel_title": "Why dropshipping fails for most beginners",
+   "prompt": "Act as an ecommerce analyst. I'm thinking of dropshipping [product] at a price of [price], with an ad cost of about [ad cost] per sale. Estimate my cost per sale including product, shipping, payment fees and ads, then my profit and margin. Give a go or skip verdict with reasons. Tell me where you're unsure of a fact or fee.",
+   "examples": {
+    "product": "yoga mat",
+    "price": "$30",
+    "ad cost": "$12 per sale"
+   },
+   "then": [
+    "Redo it if my ad cost per sale doubles and tell me what changes."
+   ],
+   "tip": "Replace the AI's guesses with real supplier prices and shipping times you check yourself.",
+   "media_id": "17928107352430374"
+  },
   {
    "id": "price-your-first-digital-product-1103",
    "date": "2026-11-03",
