@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "prompts": [
+  {
+   "id": "write-a-cold-email-in-3-steps-1105",
+   "date": "2026-11-05",
+   "title": "Write a cold email in 3 steps",
+   "summary": "A short cold email, 3 subject lines and a follow-up email",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/DfXmjbglGCB/",
+   "reel_title": "Write cold emails with AI that get replies",
+   "prompt": "Write a cold email under 90 words offering [your service] to [your target]. Mention [one proof point] and end with one simple question. Give 3 subject lines and a short follow-up email for day 3. Don't invent facts about the recipient, and tell me if you're unsure about anything.",
+   "examples": {
+    "your service": "logo design",
+    "your target": "local cafe owners",
+    "one proof point": "3 sample logos"
+   },
+   "then": [
+    "Make it shorter and more casual, like I'm writing to one person."
+   ],
+   "tip": "Add one real detail about the recipient before you send.",
+   "media_id": "18107485775580284"
+  },
   {
    "id": "check-a-dropshipping-product-s-profit-1104",
    "date": "2026-11-04",
