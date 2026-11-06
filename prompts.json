@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "prompts": [
+  {
+   "id": "draft-a-resume-template-to-sell-1106",
+   "date": "2026-11-06",
+   "title": "Draft a resume template to sell",
+   "summary": "Placeholder text and a layout plan for one resume template",
+   "category": "Digital products",
+   "reel": "https://www.instagram.com/reel/DfaGgoBDP5Z/",
+   "reel_title": "Selling resume templates",
+   "prompt": "Write placeholder text for a one-page resume template for [job type] at [experience level]. Include a summary, 5 bullet examples and a skills section. Then suggest a simple layout with 2 fonts and 2 colors, and a title and description for a listing on [marketplace]. Say if you are unsure about any fee or rule.",
+   "examples": {
+    "job type": "barista",
+    "experience level": "entry-level",
+    "marketplace": "Etsy"
+   },
+   "then": [
+    "Now write 5 search keywords a job seeker might type to find this template."
+   ],
+   "tip": "Check 5 similar listings first so your template stands out and your price fits.",
+   "media_id": "17908261701670388"
+  },
   {
    "id": "write-a-cold-email-in-3-steps-1105",
    "date": "2026-11-05",
