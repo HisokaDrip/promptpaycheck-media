@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "prompts": [
+  {
+   "id": "fix-a-low-view-first-post-1107",
+   "date": "2026-11-07",
+   "title": "Fix a low-view first post",
+   "summary": "3 stronger hooks for your next post, with a reason for each",
+   "category": "Content",
+   "reel": "https://www.instagram.com/reel/DfcwyUnDNXO/",
+   "reel_title": "First post got 50 views",
+   "prompt": "Here is my reel script: [your script]. Viewers stopped watching around [drop-off second]. Suggest 3 stronger hooks under 10 words for [your audience], and explain why each might hold attention. If you are unsure about anything, say so.",
+   "examples": {
+    "your script": "Paste your reel script here",
+    "drop-off second": "Second 3",
+    "your audience": "Beginners learning to budget"
+   },
+   "then": [
+    "Now rewrite the first 3 seconds of my script using the best hook."
+   ],
+   "tip": "Find the drop-off second in Instagram Insights under your reel's retention graph.",
+   "media_id": "18193065307361129"
+  },
   {
    "id": "draft-a-resume-template-to-sell-1106",
    "date": "2026-11-06",
