@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "prompts": [
+  {
+   "id": "check-any-side-hustle-income-claim-1108",
+   "date": "2026-11-08",
+   "title": "Check any side hustle income claim",
+   "summary": "A revenue, cost and hours breakdown of any income claim",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DffME5olCAh/",
+   "reel_title": "Checking $800 weekend side hustle claims",
+   "prompt": "Here is an income claim I saw online: [the claim]. Break it into revenue, likely costs (platform fees, payment fees, tools, tax for [your country]) and hours worked. Estimate a realistic profit range and hourly rate. Label which numbers are assumptions, and tell me if you're unsure of any fee.",
+   "examples": {
+    "the claim": "Made $800 selling templates in a weekend",
+    "your country": "US"
+   },
+   "then": [
+    "List 5 questions I should ask before copying this side hustle."
+   ],
+   "tip": "Check current fees on the platform's own pricing page.",
+   "media_id": "17994693417004288"
+  },
   {
    "id": "fix-a-low-view-first-post-1107",
    "date": "2026-11-07",
