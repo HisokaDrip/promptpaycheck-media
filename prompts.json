@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "prompts": [
+  {
+   "id": "get-an-ai-translation-first-draft-1109",
+   "date": "2026-11-09",
+   "title": "Get an AI translation first draft",
+   "summary": "A draft translation plus a list of phrases to double-check",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/DfiLJkfAnHt/",
+   "reel_title": "AI tools for translation work",
+   "prompt": "Translate this [text type] from [language pair]. Keep a [tone] tone. After the translation, list any phrases, idioms or terms you're unsure about and explain the other options. Say clearly when you are not sure of a meaning.",
+   "examples": {
+    "text type": "product page description",
+    "language pair": "Spanish to English",
+    "tone": "friendly and clear"
+   },
+   "then": [
+    "Now rewrite it in a more formal tone and show what changed."
+   ],
+   "tip": "Only translate languages you can proofread yourself, and tell clients when you use AI tools.",
+   "media_id": "18642843841057245"
+  },
   {
    "id": "check-any-side-hustle-income-claim-1108",
    "date": "2026-11-08",
