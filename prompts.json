@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "prompts": [
+  {
+   "id": "faceless-ugc-pitch-safe-pay-checklist-1110",
+   "date": "2026-11-10",
+   "title": "Faceless UGC pitch + safe-pay checklist",
+   "summary": "A pitch email plus the terms to get in writing before you film",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DfkcMDjEttm/",
+   "reel_title": "UGC creator without showing your face",
+   "prompt": "Write a short pitch email offering faceless UGC videos to [brand type]. Include 3 video ideas that use [format], with no face on camera. Then list the terms I should get in writing before filming, such as price, usage rights and payment timing, plus 3 warning signs of a scam brand. Tell me if you're unsure about any typical rate or fee.",
+   "examples": {
+    "brand type": "skincare brands",
+    "format": "hands-only product demos"
+   },
+   "then": [
+    "Turn that into a one-page agreement checklist I can send to the brand."
+   ],
+   "tip": "Never pay a fee to get a UGC job. Real brands pay you, or send free product at most.",
+   "media_id": "18113507459176743"
+  },
   {
    "id": "get-an-ai-translation-first-draft-1109",
    "date": "2026-11-09",
