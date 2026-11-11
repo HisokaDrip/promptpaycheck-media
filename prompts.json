@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "prompts": [
+  {
+   "id": "turn-your-notes-into-a-guide-outline-1111",
+   "date": "2026-11-11",
+   "title": "Turn your notes into a guide outline",
+   "summary": "A 5-chapter guide outline built from your own messy notes",
+   "category": "Digital products",
+   "reel": "https://www.instagram.com/reel/DfnB-Kzn3Iz/",
+   "reel_title": "Turn your notes into a sellable guide",
+   "prompt": "I have messy notes on [your topic]. Turn them into a guide outline for [your reader] with 5 chapters, a one-line goal for each, and one example to add per chapter. Keep it to about [page count] pages. List any gaps in my notes, and tell me if you're unsure about any fact.",
+   "examples": {
+    "your topic": "budget meal prep",
+    "your reader": "busy college students",
+    "page count": "12"
+   },
+   "then": [
+    "Now write chapter 1 in plain English, about 300 words, using my notes."
+   ],
+   "tip": "Don't paste private info, and check every fact yourself before you sell the guide.",
+   "media_id": "18124380887474537"
+  },
   {
    "id": "faceless-ugc-pitch-safe-pay-checklist-1110",
    "date": "2026-11-10",
