@@ -1,0 +1,64 @@
+{
+  "topic": "Fiverr gig written with one AI prompt",
+  "term_tag": "fiverr_gig_writer",
+  "hook": {
+    "text": "1 prompt writes your Fiverr gig in 2 minutes",
+    "highlight": "Fiverr gig"
+  },
+  "demo": {
+    "vo": "Paste this, add your skill and buyer, and AI writes the title, description and prices.",
+    "prompt": "Write a Fiverr gig for [your skill] aimed at [your buyer]: title, description, 3 packages with prices.",
+    "fills": [
+      "logo design",
+      "small cafes"
+    ],
+    "answer": [
+      "Title: I will design a logo for your small cafe",
+      "Opens with: Need a logo that fits your menu?",
+      "Basic $20-30: 1 concept, 2 revisions",
+      "Standard $40-60: 3 concepts, vector files",
+      "Tags: cafe logo, logo design, brand logo"
+    ],
+    "key_line": 0
+  },
+  "payoff": {
+    "vo": "Copy the title, add 3 packages, and edit it in your voice.",
+    "type": "steps",
+    "title": "Post it today",
+    "items": [
+      "Copy the title",
+      "Add 3 packages",
+      "Edit it in your voice"
+    ],
+    "values": [],
+    "big": ""
+  },
+  "page_prompt": {
+    "title": "Write your Fiverr gig in 2 minutes",
+    "summary": "Gig title, description, 3 priced packages and tags, ready to edit",
+    "category": "Freelance",
+    "prompt": "Write a Fiverr gig for [your skill] aimed at [your buyer]. Give me: 1) a search-friendly title starting with 'I will', 2) a 120-word description, 3) Basic, Standard and Premium packages with what's included and a price range, 4) 5 search tags, 5) 3 questions to ask buyers. I'm a [your level]. Say if you're unsure about Fiverr fees or rules.",
+    "then": "Rewrite the description shorter and in a friendlier tone.",
+    "tip": "Check Fiverr's current gig rules and fees before you publish.",
+    "fills": [
+      "logo design",
+      "small cafes",
+      "beginner with no reviews"
+    ]
+  },
+  "caption": "Fiverr gig description ChatGPT prompt: write yours in 2 minutes\n\nPaste this: Write a Fiverr gig for [your skill] aimed at [your buyer]: title, description, 3 packages with prices.\n\nComment the skill you'd put in the blank.",
+  "hashtags": [
+    "#fiverr",
+    "#fiverrgig",
+    "#freelancingforbeginners",
+    "#gigwriting",
+    "#sidehustle"
+  ],
+  "kind": "reel",
+  "style": "cine",
+  "pillar": "Digital products and side hustles, honest breakdowns",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null,
+  "voice": "kokoro:am_michael"
+}
