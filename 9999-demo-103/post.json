@@ -1,0 +1,64 @@
+{
+  "topic": "Fiverr gig written with one AI prompt",
+  "term_tag": "fiverr_gig",
+  "hook": {
+    "text": "Write your Fiverr gig in 2 minutes",
+    "highlight": "2 minutes"
+  },
+  "demo": {
+    "vo": "Paste this, add your skill and buyer, and AI writes the whole gig page.",
+    "prompt": "Write a Fiverr gig for [your skill] aimed at [your buyer]: title, description, 3 packages and 5 tags.",
+    "fills": [
+      "logo design",
+      "small cafe owners"
+    ],
+    "answer": [
+      "Title: I will design a logo for your cafe",
+      "Basic: 1 logo, 2 revisions, 3 days",
+      "Standard: 3 concepts + files, 5 days",
+      "Tags: cafe logo, branding, small business",
+      "Test a starter price of $20-$40 first"
+    ],
+    "key_line": 0
+  },
+  "payoff": {
+    "vo": "Paste the title into Fiverr, add the 3 packages, compare prices with similar gigs.",
+    "type": "steps",
+    "title": "Post it today",
+    "items": [
+      "Paste the title into Fiverr",
+      "Add the 3 packages",
+      "Compare prices with similar gigs"
+    ],
+    "values": [],
+    "big": ""
+  },
+  "page_prompt": {
+    "title": "Write your Fiverr gig in 2 minutes",
+    "summary": "A gig title, description, 3 packages and tags you can edit",
+    "category": "Freelance",
+    "prompt": "Write a Fiverr gig for [your skill] aimed at [your buyer]. Give me: 1) a gig title starting with 'I will' under 80 characters, 2) a 150-word description, 3) Basic, Standard and Premium packages with what's included and delivery days, 4) 5 search tags, 5) 3 questions to ask buyers. Suggest a price range for a new seller with [your experience], and say when you're not sure about a fee or rule.",
+    "then": "Rewrite the description in a friendlier tone, under 120 words.",
+    "tip": "Check 5 similar gigs on Fiverr and edit the answer so it sounds like you.",
+    "fills": [
+      "logo design",
+      "small cafe owners",
+      "no reviews yet"
+    ]
+  },
+  "caption": "Fiverr gig description ChatGPT prompt: write your gig in 2 minutes\n\nPaste this: Write a Fiverr gig for [your skill] aimed at [your buyer]: title, description, 3 packages and 5 tags.\n\nComment the skill you'd put in the blank.",
+  "hashtags": [
+    "#fiverr",
+    "#fiverrgig",
+    "#fiverrtips",
+    "#freelancingforbeginners",
+    "#sidehustle"
+  ],
+  "kind": "reel",
+  "style": "cine",
+  "pillar": "Digital products and side hustles, honest breakdowns",
+  "cta": "Follow @thepromptpaycheck for a new AI income method every day.",
+  "cta_spoken": "Follow for a new AI income method every day.",
+  "cta_keyword": null,
+  "voice": "kokoro:am_michael"
+}

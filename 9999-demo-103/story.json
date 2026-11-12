@@ -1,0 +1,286 @@
+{
+ "fps": 30,
+ "duration": 14.552,
+ "handle": "thepromptpaycheck",
+ "termTag": "fiverr_gig",
+ "hook": {
+  "start": 0.06,
+  "dur": 1.856,
+  "words": [
+   {
+    "d": "Write",
+    "t0": 0.11,
+    "t1": 0.34
+   },
+   {
+    "d": "your",
+    "t0": 0.34,
+    "t1": 0.7
+   },
+   {
+    "d": "Fiverr",
+    "t0": 0.7,
+    "t1": 1.035
+   },
+   {
+    "d": "gig",
+    "t0": 1.035,
+    "t1": 1.26
+   },
+   {
+    "d": "in",
+    "t0": 1.26,
+    "t1": 1.343
+   },
+   {
+    "d": "2",
+    "t0": 1.343,
+    "t1": 1.405
+   },
+   {
+    "d": "minutes",
+    "t0": 1.405,
+    "t1": 1.836
+   }
+  ],
+  "text": "Write your Fiverr gig in 2 minutes",
+  "highlight": "2 minutes"
+ },
+ "demo": {
+  "start": 2.016,
+  "dur": 4.309,
+  "words": [
+   {
+    "d": "Paste",
+    "t0": 2.066,
+    "t1": 2.326
+   },
+   {
+    "d": "this,",
+    "t0": 2.326,
+    "t1": 2.846
+   },
+   {
+    "d": "add",
+    "t0": 2.846,
+    "t1": 3.086
+   },
+   {
+    "d": "your",
+    "t0": 3.086,
+    "t1": 3.282
+   },
+   {
+    "d": "skill",
+    "t0": 3.282,
+    "t1": 3.646
+   },
+   {
+    "d": "and",
+    "t0": 3.646,
+    "t1": 3.781
+   },
+   {
+    "d": "buyer,",
+    "t0": 3.781,
+    "t1": 4.346
+   },
+   {
+    "d": "and",
+    "t0": 4.346,
+    "t1": 4.499
+   },
+   {
+    "d": "AI",
+    "t0": 4.499,
+    "t1": 4.624
+   },
+   {
+    "d": "writes",
+    "t0": 4.624,
+    "t1": 5.046
+   },
+   {
+    "d": "the",
+    "t0": 5.046,
+    "t1": 5.156
+   },
+   {
+    "d": "whole",
+    "t0": 5.156,
+    "t1": 5.556
+   },
+   {
+    "d": "gig",
+    "t0": 5.556,
+    "t1": 5.736
+   },
+   {
+    "d": "page.",
+    "t0": 5.736,
+    "t1": 6.245
+   }
+  ],
+  "text": "Paste this, add your skill and buyer, and AI writes the whole gig page.",
+  "prompt": "Write a Fiverr gig for [your skill] aimed at [your buyer]: title, description, 3 packages and 5 tags.",
+  "fills": [
+   "logo design",
+   "small cafe owners"
+  ],
+  "answer": [
+   "Title: I will design a logo for your cafe",
+   "Basic: 1 logo, 2 revisions, 3 days",
+   "Standard: 3 concepts + files, 5 days",
+   "Tags: cafe logo, branding, small business",
+   "Test a starter price of $20-$40 first"
+  ],
+  "key": 0
+ },
+ "payoff": {
+  "start": 6.485,
+  "dur": 5.355,
+  "words": [
+   {
+    "d": "Paste",
+    "t0": 6.535,
+    "t1": 6.885
+   },
+   {
+    "d": "the",
+    "t0": 6.885,
+    "t1": 6.995
+   },
+   {
+    "d": "title",
+    "t0": 6.995,
+    "t1": 7.406
+   },
+   {
+    "d": "into",
+    "t0": 7.406,
+    "t1": 7.615
+   },
+   {
+    "d": "Fiverr,",
+    "t0": 7.615,
+    "t1": 8.31
+   },
+   {
+    "d": "add",
+    "t0": 8.31,
+    "t1": 8.511
+   },
+   {
+    "d": "the",
+    "t0": 8.511,
+    "t1": 8.675
+   },
+   {
+    "d": "3",
+    "t0": 8.675,
+    "t1": 8.835
+   },
+   {
+    "d": "packages,",
+    "t0": 8.835,
+    "t1": 9.505
+   },
+   {
+    "d": "compare",
+    "t0": 9.505,
+    "t1": 9.955
+   },
+   {
+    "d": "prices",
+    "t0": 9.955,
+    "t1": 10.445
+   },
+   {
+    "d": "with",
+    "t0": 10.445,
+    "t1": 10.688
+   },
+   {
+    "d": "similar",
+    "t0": 10.688,
+    "t1": 11.157
+   },
+   {
+    "d": "gigs.",
+    "t0": 11.157,
+    "t1": 11.76
+   }
+  ],
+  "text": "Paste the title into Fiverr, add the 3 packages, compare prices with similar gigs.",
+  "type": "steps",
+  "title": "Post it today",
+  "items": [
+   "Paste the title into Fiverr",
+   "Add the 3 packages",
+   "Compare prices with similar gigs"
+  ],
+  "values": [],
+  "big": ""
+ },
+ "close": {
+  "start": 12.14,
+  "dur": 1.792,
+  "words": [
+   {
+    "d": "The",
+    "t0": 12.19,
+    "t1": 12.34
+   },
+   {
+    "d": "full",
+    "t0": 12.34,
+    "t1": 12.55
+   },
+   {
+    "d": "prompt",
+    "t0": 12.55,
+    "t1": 12.94
+   },
+   {
+    "d": "is",
+    "t0": 12.94,
+    "t1": 13.08
+   },
+   {
+    "d": "in",
+    "t0": 13.08,
+    "t1": 13.236
+   },
+   {
+    "d": "my",
+    "t0": 13.236,
+    "t1": 13.41
+   },
+   {
+    "d": "bio.",
+    "t0": 13.41,
+    "t1": 13.852
+   }
+  ],
+  "text": "The full prompt is in my bio."
+ },
+ "closeLines": [
+  "Full prompt",
+  "in my bio"
+ ],
+ "followLine": "Follow for a new prompt daily",
+ "pool": [
+  "writing",
+  "design",
+  "video",
+  "students",
+  "coaches",
+  "$0",
+  "Etsy",
+  "5 hrs/wk",
+  "fitness",
+  "a cafe",
+  "logo design",
+  "small cafe owners"
+ ]
+}
