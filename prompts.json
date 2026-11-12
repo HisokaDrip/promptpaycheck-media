@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "prompts": [
+  {
+   "id": "write-your-fiverr-gig-in-2-minutes-1112",
+   "date": "2026-11-12",
+   "title": "Write your Fiverr gig in 2 minutes",
+   "summary": "Gig title, description and 3 priced packages ready to paste",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/DfpouPFE0la/",
+   "reel_title": "Write your Fiverr gig with one AI prompt",
+   "prompt": "Act as a Fiverr gig writer. Write a gig for [your skill] aimed at [your buyer]. Give me: 1) a title starting with 'I will' under 80 characters, 2) a 150-word description in plain English, 3) Basic, Standard and Premium packages with what's included and a price range for a new seller, 4) 5 search tags, 5) 3 FAQs. My level: [your level]. Say if you're unsure about any Fiverr rule or fee, and don't invent reviews.",
+   "examples": {
+    "your skill": "logo design",
+    "your buyer": "new cafe owners",
+    "your level": "beginner, no reviews yet"
+   },
+   "then": [
+    "Now rewrite the description shorter and add a 3-line opening hook."
+   ],
+   "tip": "Check Fiverr's current gig rules and pricing limits before you publish.",
+   "media_id": "17910549345331913"
+  },
   {
    "id": "turn-your-notes-into-a-guide-outline-1111",
    "date": "2026-11-11",
