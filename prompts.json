@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "prompts": [
+  {
+   "id": "find-10-digital-product-ideas-fast-1113",
+   "date": "2026-11-13",
+   "title": "Find 10 digital product ideas fast",
+   "summary": "10 product ideas with format, tool and price range",
+   "category": "Digital products",
+   "reel": "https://www.instagram.com/reel/DfsKuyngHZv/",
+   "reel_title": "10 digital product ideas for your niche",
+   "prompt": "Give me 10 digital product ideas for [your niche] aimed at [your audience]. Each must be something a beginner can make in a weekend with free or cheap tools. For each idea give: the format (PDF, template, checklist), the free tool to make it, and a typical price range on Etsy or Gumroad. Rank them from easiest to hardest. Say if you're not sure about a price or fee.",
+   "examples": {
+    "your niche": "meal prep",
+    "your audience": "busy parents"
+   },
+   "then": [
+    "Pick idea 3 and outline what goes inside it, page by page."
+   ],
+   "tip": "Search Etsy for similar products first, to see what already sells before you build.",
+   "media_id": "17889230229689817"
+  },
   {
    "id": "write-your-fiverr-gig-in-2-minutes-1112",
    "date": "2026-11-12",
