@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "prompts": [
+  {
+   "id": "find-your-first-3-freelance-clients-1114",
+   "date": "2026-11-14",
+   "title": "Find your first 3 freelance clients",
+   "summary": "3 buyer types, where to find them, and a short first message",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/DfunGILGfxd/",
+   "reel_title": "Find your first 3 freelance clients",
+   "prompt": "I offer [your skill] as a beginner freelancer near [your area], with no budget and [daily time] to spend on outreach. List 3 types of people or businesses likely to pay for it. For each one, tell me where to find them online, what problem they probably have, and write a 3-sentence first message. Say if you're unsure about any fee or platform rule.",
+   "examples": {
+    "your skill": "logo design",
+    "your area": "Leeds",
+    "daily time": "30 minutes a day"
+   },
+   "then": [
+    "Rewrite the first message so it sounds more casual and stays under 60 words."
+   ],
+   "tip": "Send 3 messages a day for 30 days and log replies in a simple sheet.",
+   "media_id": "18099664085405836"
+  },
   {
    "id": "find-10-digital-product-ideas-fast-1113",
    "date": "2026-11-13",
