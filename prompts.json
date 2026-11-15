@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "prompts": [
+  {
+   "id": "give-every-dollar-a-job-1115",
+   "date": "2026-11-15",
+   "title": "Give every dollar a job",
+   "summary": "A 3-bucket monthly split with debt and a buffer in order",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DfxPQPFGm8m/",
+   "reel_title": "A 3-bucket plan for your pay",
+   "prompt": "Act as a careful budgeting coach. My monthly take-home pay is [take-home pay]. My main debt is [your debt]. Split my pay into 3 buckets: bills and food, debt payoff, goals and buffer. Show dollar amounts and percentages, say what to pay first and why, and tell me if you are unsure of any rate or fee.",
+   "examples": {
+    "take-home pay": "$2,400 after tax",
+    "your debt": "a credit card at 22% APR"
+   },
+   "then": [
+    "Now adjust the plan if my rent is 45% of my pay."
+   ],
+   "tip": "Use real numbers from your bank app, and confirm rates with your lender.",
+   "media_id": "18162421768559285"
+  },
   {
    "id": "find-your-first-3-freelance-clients-1114",
    "date": "2026-11-14",
