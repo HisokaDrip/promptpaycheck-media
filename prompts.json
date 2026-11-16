@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "prompts": [
+  {
+   "id": "write-an-etsy-listing-that-gets-found-1116",
+   "date": "2026-11-16",
+   "title": "Write an Etsy listing that gets found",
+   "summary": "An Etsy title, 13 tags and a description built around buyer searches",
+   "category": "Digital products",
+   "reel": "https://www.instagram.com/reel/Df0KdJ6nL78/",
+   "reel_title": "Etsy listing that gets found",
+   "prompt": "Write an Etsy listing for my [product]. Target buyers who search [search phrase]. Give me: 1) a title under 140 characters with the main phrase first, 2) 13 tags of 20 characters or fewer, 3) a description with a short opening, 3 bullet points and a line about delivery or shipping. Use plain words buyers actually type. Tell me if you're unsure about any Etsy rule or fee so I can check it.",
+   "examples": {
+    "product": "printable budget planner",
+    "search phrase": "monthly budget template"
+   },
+   "then": [
+    "Now give me 10 more tag ideas and mark the 3 buyers would most likely search."
+   ],
+   "tip": "Check Etsy's current title and tag rules, and compare with the live search suggestions.",
+   "media_id": "18121248320052362"
+  },
   {
    "id": "give-every-dollar-a-job-1115",
    "date": "2026-11-15",
