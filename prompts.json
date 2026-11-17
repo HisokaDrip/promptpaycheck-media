@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "prompts": [
+  {
+   "id": "client-proposal-in-5-minutes-1117",
+   "date": "2026-11-17",
+   "title": "Client proposal in 5 minutes",
+   "summary": "1-page proposal with scope, price range, deposit and payment terms",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/Df2nfQlDdYN/",
+   "reel_title": "A prompt that writes a client proposal in 5 minutes",
+   "prompt": "Write a 1-page client proposal for [your service] for [client type]. Include: project scope, what is not included, a price range, a 50% deposit before work starts, a payment due date, and a limit on revision rounds. Use plain, friendly English. If you are unsure of a typical fee, say so and give a range.",
+   "examples": {
+    "your service": "logo design",
+    "client type": "a local cafe"
+   },
+   "then": [
+    "Now shorten it into a 5-line email I can send with the proposal."
+   ],
+   "tip": "Swap in your own rates, since AI fees are only a guide. For big projects, have a contract checked.",
+   "media_id": "18104725760363676"
+  },
   {
    "id": "write-an-etsy-listing-that-gets-found-1116",
    "date": "2026-11-16",
