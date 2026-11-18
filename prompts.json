@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "prompts": [
+  {
+   "id": "turn-1-skill-into-5-services-1118",
+   "date": "2026-11-18",
+   "title": "Turn 1 skill into 5 services",
+   "summary": "5 services with buyers, price ranges and a first step to offer each",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/Df5J-1clHie/",
+   "reel_title": "Turn 1 skill into 5 services",
+   "prompt": "Act as a freelance business coach. My skill is [your skill] and I live in [your country]. List 5 different services I could sell using this skill. For each one, give a service name, who buys it, a typical price range in local currency, and the first step to offer it. Say clearly if you are unsure about any price.",
+   "examples": {
+    "your skill": "photo editing",
+    "your country": "the UK"
+   },
+   "then": [
+    "Pick the easiest service from your list and write a 3-line offer I can post today."
+   ],
+   "tip": "Treat the price ranges as a starting point and check 3 real listings on Fiverr or Upwork before you set yours.",
+   "media_id": "18119956946048726"
+  },
   {
    "id": "client-proposal-in-5-minutes-1117",
    "date": "2026-11-17",
