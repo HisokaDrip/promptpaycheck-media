@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "prompts": [
+  {
+   "id": "script-your-phone-bill-call-1119",
+   "date": "2026-11-19",
+   "title": "Script your phone bill call",
+   "summary": "A word-for-word call script to ask for a lower phone bill",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/Df7wfNHDhF2/",
+   "reel_title": "AI script to lower your phone bill",
+   "prompt": "Write a word-for-word phone call script to ask [carrier] for a lower monthly bill. My bill is [monthly bill] and I've been a customer for [time with carrier]. Include an opening line, how to reach the retention team, 3 things to say, replies to common pushback, and a polite exit line. Say if you're unsure about any current offers or fees, and tell me what to check on their website first.",
+   "examples": {
+    "carrier": "Verizon",
+    "monthly bill": "$85 a month",
+    "time with carrier": "3 years"
+   },
+   "then": [
+    "Now shorten it into 5 bullet points I can read during the call."
+   ],
+   "tip": "Check the carrier's current deals and your contract terms before calling. Results vary.",
+   "media_id": "18155837473554864"
+  },
   {
    "id": "turn-1-skill-into-5-services-1118",
    "date": "2026-11-18",
