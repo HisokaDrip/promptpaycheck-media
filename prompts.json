@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "prompts": [
+  {
+   "id": "write-10-product-hooks-in-30-seconds-1120",
+   "date": "2026-11-20",
+   "title": "Write 10 product hooks in 30 seconds",
+   "summary": "10 short hooks in different styles for your product",
+   "category": "Content",
+   "reel": "https://www.instagram.com/reel/Df-Q7lCAIOD/",
+   "reel_title": "10 product hooks in 30 seconds",
+   "prompt": "Write 10 short video hooks for my [your product], aimed at [your audience]. Keep each under 10 words and use a different style for each: question, number, before/after, curiosity gap and so on. Mark the 3 strongest for [platform] and say why. Don't invent facts or results about the product, and flag anything you're unsure of.",
+   "examples": {
+    "your product": "budget planner PDF",
+    "your audience": "college students",
+    "platform": "Instagram Reels"
+   },
+   "then": [
+    "Rewrite my top 3 hooks in a more casual tone, 6 words or fewer."
+   ],
+   "tip": "Read each hook out loud. If you stumble on it, it's too long for the first 2 seconds.",
+   "media_id": "18443118148181581"
+  },
   {
    "id": "script-your-phone-bill-call-1119",
    "date": "2026-11-19",
