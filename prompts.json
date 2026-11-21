@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "prompts": [
+  {
+   "id": "see-what-money-reels-leave-out-1121",
+   "date": "2026-11-21",
+   "title": "See what money reels leave out",
+   "summary": "Hidden costs, hours and skills behind a reel's claim, plus a plan",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DgAuW8IDaqv/",
+   "reel_title": "What money reels leave out",
+   "prompt": "A social media reel makes this claim about making money online: [the claim]. List the costs, weekly hours, skills and risks the reel likely leaves out, with realistic ranges. Say clearly where you are unsure of a fact or fee. Then build a simple plan for my [free hours] a week and tell me what to check after 4 weeks. Use plain English.",
+   "examples": {
+    "the claim": "Quit my job with dropshipping",
+    "free hours": "5 hours"
+   },
+   "then": [
+    "Now cut the plan down to the cheapest first step I can test this week."
+   ],
+   "tip": "Paste the reel's words as they are, then check each cost it lists on the tool's own site.",
+   "media_id": "18115207217157037"
+  },
   {
    "id": "write-10-product-hooks-in-30-seconds-1120",
    "date": "2026-11-20",
