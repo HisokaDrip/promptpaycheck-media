@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "prompts": [
+  {
+   "id": "replace-a-paid-tool-with-free-ones-1122",
+   "date": "2026-11-22",
+   "title": "Replace a paid tool with free ones",
+   "summary": "Free or cheap swaps, what you'd lose, and a 2-week switch plan",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DgDWatWDAQf/",
+   "reel_title": "One AI prompt that replaces a $200/month tool",
+   "prompt": "I pay for [paid tool] and it costs about [monthly cost] a month. I mainly use it for [what you use it for]. List 3 free or cheap alternatives, say what each one does well and what I would lose, and give me a 3-step plan to test the switch for 2 weeks. Tell me if you're unsure about any current price or feature.",
+   "examples": {
+    "paid tool": "a social media scheduler",
+    "monthly cost": "$200",
+    "what you use it for": "scheduling 10 posts a week"
+   },
+   "then": [
+    "Turn that into a checklist of the features I use, so I can test each swap."
+   ],
+   "tip": "Check each tool's pricing page, since plans and limits change.",
+   "media_id": "18045190049832995"
+  },
   {
    "id": "see-what-money-reels-leave-out-1121",
    "date": "2026-11-21",
