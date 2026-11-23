@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "prompts": [
+  {
+   "id": "build-a-client-website-in-30-minutes-1123",
+   "date": "2026-11-23",
+   "title": "Build a client website in 30 minutes",
+   "summary": "Full 1-page site copy: headline, services, about and contact",
+   "category": "Freelance",
+   "reel": "https://www.instagram.com/reel/DgGYoMDGfKV/",
+   "reel_title": "Make a simple website for a client with AI",
+   "prompt": "Write the copy for a 1-page website for [business] in [city]. Give me: a headline and subheading, 3 services with 1-line descriptions, a short about section, a call-to-action button, and a contact section. Use simple English, a friendly tone, and a [style] feel. Then list the photos I should ask the client for. If you're unsure about any fact, price or detail, say so instead of guessing.",
+   "examples": {
+    "business": "a dog groomer",
+    "city": "Leeds",
+    "style": "warm and professional"
+   },
+   "then": [
+    "Now turn this into a Google Sites layout, section by section."
+   ],
+   "tip": "Ask the client for real hours, prices and photos before you paste.",
+   "media_id": "18121704017104586"
+  },
   {
    "id": "replace-a-paid-tool-with-free-ones-1122",
    "date": "2026-11-22",
