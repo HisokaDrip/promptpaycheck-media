@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "prompts": [
+  {
+   "id": "affiliate-marketing-explained-simply-1124",
+   "date": "2026-11-24",
+   "title": "Affiliate marketing, explained simply",
+   "summary": "How affiliate links pay, what they cost, and red flags to spot",
+   "category": "Money safety",
+   "reel": "https://www.instagram.com/reel/DgI0LXSDvKN/",
+   "reel_title": "Affiliate marketing explained in 30 seconds",
+   "prompt": "Explain affiliate marketing for [niche] on [platform] in plain English, as if I'm a complete beginner. Show how I get paid, typical commission ranges, any costs to start, and how to disclose links. Then list 5 red flags of a bad affiliate program. If you're unsure of a rate or rule, say so.",
+   "examples": {
+    "niche": "budget travel",
+    "platform": "Instagram"
+   },
+   "then": [
+    "Now name 3 well-known affiliate programs for my niche and their usual commission ranges."
+   ],
+   "tip": "Check each program's own terms page, since commission rates and rules change.}",
+   "media_id": "18092868275704096"
+  },
   {
    "id": "build-a-client-website-in-30-minutes-1123",
    "date": "2026-11-23",
