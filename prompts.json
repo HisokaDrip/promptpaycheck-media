@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "prompts": [
+  {
+   "id": "pick-your-1-weekly-business-number-1125",
+   "date": "2026-11-25",
+   "title": "Pick your 1 weekly business number",
+   "summary": "1 number to track, where to find it, and a 5-minute weekly check",
+   "category": "Side hustles",
+   "reel": "https://www.instagram.com/reel/DgLT0RhN-F8/",
+   "reel_title": "Track one business number weekly",
+   "prompt": "Airbnb publicly reports nights booked as one of its key numbers. Help me pick the 1 number to track every week for my [business] to reach [goal]. I use [tools you use]. Tell me how to measure it, where to find it for free, what a healthy change looks like, and a 5-minute weekly routine. Say when you're unsure of a fact or feature.",
+   "examples": {
+    "business": "Etsy candle shop",
+    "goal": "50 orders a month",
+    "tools you use": "Etsy and Google Sheets"
+   },
+   "then": [
+    "Now design a simple Google Sheet layout for tracking that number each week."
+   ],
+   "tip": "Track it for 4 weeks before changing anything, so you can see a real trend.",
+   "media_id": "18289761436288402"
+  },
   {
    "id": "affiliate-marketing-explained-simply-1124",
    "date": "2026-11-24",
