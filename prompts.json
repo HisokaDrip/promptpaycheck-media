@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "prompts": [
+  {
+   "id": "pick-3-ai-tools-to-automate-your-hustle-1126",
+   "date": "2026-11-26",
+   "title": "Pick 3 AI tools to automate your hustle",
+   "summary": "3 tools matched to your hustle, with setup steps and free limits",
+   "category": "Side hustles",
+   "reel": "https://www.instagram.com/reel/DgN2O_uiJLf/",
+   "reel_title": "3 AI tools to automate your side hustle",
+   "prompt": "Suggest 3 well-known AI or automation tools that could automate my [side hustle]. I have [time per week] and a budget of [tool budget]. For each tool, give the task it handles, a 3-step setup, and what the free plan likely includes. Rank them by time saved. Say if you're unsure about any current feature or price.",
+   "examples": {
+    "side hustle": "Etsy shop selling planners",
+    "time per week": "3 hours a week",
+    "tool budget": "$0 to $10 a month"
+   },
+   "then": [
+    "Now write the exact steps to set up tool #1 for my first task."
+   ],
+   "tip": "Check each tool's pricing page, since free plans change often.",
+   "media_id": "18073391510619797"
+  },
   {
    "id": "pick-your-1-weekly-business-number-1125",
    "date": "2026-11-25",
