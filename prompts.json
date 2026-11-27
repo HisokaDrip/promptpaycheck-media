@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "prompts": [
+  {
+   "id": "first-digital-product-launch-checklist-1127",
+   "date": "2026-11-27",
+   "title": "First digital product launch checklist",
+   "summary": "A numbered launch checklist with a time estimate for each step",
+   "category": "Digital products",
+   "reel": "https://www.instagram.com/reel/DgQaYygh1vF/",
+   "reel_title": "First digital product checklist",
+   "prompt": "Make a launch checklist for my [product] on [platform]. I am a beginner and can spend [hours per week] a week on it. Give 6-8 numbered steps in order, with a time estimate and one free tool for each. Add a final step where I buy it myself to test checkout. If you are not sure about a fee or platform rule, say so.",
+   "examples": {
+    "product": "budget planner PDF",
+    "platform": "Gumroad",
+    "hours per week": "5 hours"
+   },
+   "then": [
+    "Turn step 1 into a 1-sentence product promise I can paste into my listing."
+   ],
+   "tip": "Check the platform's current fees on its own pricing page before you upload.",
+   "media_id": "18043283870844722"
+  },
   {
    "id": "pick-3-ai-tools-to-automate-your-hustle-1126",
    "date": "2026-11-26",
